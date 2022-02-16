@@ -2,25 +2,27 @@ package transport_test
 
 import (
 	"context"
-	"encoding/json"
+	gojson "encoding/json"
 	"errors"
-	"net/http"
-	"net/http/httptest"
-	"strings"
-	"testing"
-	"time"
-
 	"github.com/99designs/gqlgen/client"
 	"github.com/99designs/gqlgen/graphql"
 	"github.com/99designs/gqlgen/graphql/handler"
 	"github.com/99designs/gqlgen/graphql/handler/testserver"
 	"github.com/99designs/gqlgen/graphql/handler/transport"
 	"github.com/gorilla/websocket"
+	jsoniter "github.com/json-iterator/go"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 	"github.com/vektah/gqlparser/v2"
 	"github.com/vektah/gqlparser/v2/ast"
+	"net/http"
+	"net/http/httptest"
+	"strings"
+	"testing"
+	"time"
 )
+
+var json = jsoniter.ConfigCompatibleWithStandardLibrary
 
 type ckey string
 
@@ -98,7 +100,7 @@ func TestWebsocket(t *testing.T) {
 		require.NoError(t, c.WriteJSON(&operationMessage{
 			Type:    startMsg,
 			ID:      "test_1",
-			Payload: json.RawMessage(`{"query": "!"}`),
+			Payload: gojson.RawMessage(`{"query": "!"}`),
 		}))
 
 		msg := readOp(c)
@@ -117,7 +119,7 @@ func TestWebsocket(t *testing.T) {
 		require.NoError(t, c.WriteJSON(&operationMessage{
 			Type:    startMsg,
 			ID:      "test_1",
-			Payload: json.RawMessage(`{"query": "subscription { name }"}`),
+			Payload: gojson.RawMessage(`{"query": "subscription { name }"}`),
 		}))
 
 		handler.SendNextSubscriptionMessage()
@@ -159,7 +161,7 @@ func TestWebsocketWithKeepAlive(t *testing.T) {
 	require.NoError(t, c.WriteJSON(&operationMessage{
 		Type:    startMsg,
 		ID:      "test_1",
-		Payload: json.RawMessage(`{"query": "subscription { name }"}`),
+		Payload: gojson.RawMessage(`{"query": "subscription { name }"}`),
 	}))
 
 	// keepalive
@@ -319,7 +321,7 @@ func TestWebsocketGraphqltransportwsSubprotocol(t *testing.T) {
 		require.NoError(t, c.WriteJSON(&operationMessage{
 			Type:    graphqltransportwsSubscribeMsg,
 			ID:      "test_1",
-			Payload: json.RawMessage(`{"query": "subscription { name }"}`),
+			Payload: gojson.RawMessage(`{"query": "subscription { name }"}`),
 		}))
 
 		handler.SendNextSubscriptionMessage()
@@ -438,7 +440,7 @@ const (
 )
 
 type operationMessage struct {
-	Payload json.RawMessage `json:"payload,omitempty"`
-	ID      string          `json:"id,omitempty"`
-	Type    string          `json:"type"`
+	Payload gojson.RawMessage `json:"payload,omitempty"`
+	ID      string            `json:"id,omitempty"`
+	Type    string            `json:"type"`
 }

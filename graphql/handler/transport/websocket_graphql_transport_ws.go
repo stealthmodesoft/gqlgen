@@ -1,9 +1,8 @@
 package transport
 
 import (
-	"encoding/json"
+	gojson "encoding/json"
 	"fmt"
-
 	"github.com/gorilla/websocket"
 )
 
@@ -38,7 +37,7 @@ type (
 	}
 
 	graphqltransportwsMessage struct {
-		Payload json.RawMessage               `json:"payload,omitempty"`
+		Payload gojson.RawMessage             `json:"payload,omitempty"`
 		ID      string                        `json:"id,omitempty"`
 		Type    graphqltransportwsMessageType `json:"type"`
 		noOp    bool

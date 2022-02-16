@@ -1,14 +1,14 @@
 package graphql
 
 import (
-	"encoding/json"
+	gojson "encoding/json"
 	"fmt"
 	"io"
 )
 
 func MarshalMap(val map[string]interface{}) Marshaler {
 	return WriterFunc(func(w io.Writer) {
-		err := json.NewEncoder(w).Encode(val)
+		err := gojson.NewEncoder(w).Encode(val)
 		if err != nil {
 			panic(err)
 		}

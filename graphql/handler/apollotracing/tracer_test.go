@@ -1,7 +1,7 @@
 package apollotracing_test
 
 import (
-	"encoding/json"
+	jsoniter "github.com/json-iterator/go"
 	"net/http"
 	"net/http/httptest"
 	"strings"
@@ -19,6 +19,8 @@ import (
 	"github.com/vektah/gqlparser/v2/ast"
 	"github.com/vektah/gqlparser/v2/gqlerror"
 )
+
+var json = jsoniter.ConfigCompatibleWithStandardLibrary
 
 func TestApolloTracing(t *testing.T) {
 	now := time.Unix(0, 0)

@@ -4,15 +4,17 @@ package client
 
 import (
 	"bytes"
-	"encoding/json"
+	gojson "encoding/json"
 	"fmt"
+	jsoniter "github.com/json-iterator/go"
+	"github.com/mitchellh/mapstructure"
 	"io/ioutil"
 	"net/http"
 	"net/http/httptest"
 	"regexp"
-
-	"github.com/mitchellh/mapstructure"
 )
+
+var json = jsoniter.ConfigCompatibleWithStandardLibrary
 
 type (
 	// Client used for testing GraphQL servers. Not for production use.
@@ -38,7 +40,7 @@ type (
 	// Response is a GraphQL layer response from a handler.
 	Response struct {
 		Data       interface{}
-		Errors     json.RawMessage
+		Errors     gojson.RawMessage
 		Extensions map[string]interface{}
 	}
 )

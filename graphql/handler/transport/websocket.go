@@ -3,7 +3,6 @@ package transport
 import (
 	"bytes"
 	"context"
-	"encoding/json"
 	"errors"
 	"fmt"
 	"log"
@@ -11,6 +10,7 @@ import (
 	"sync"
 	"time"
 
+	gojson "encoding/json"
 	"github.com/99designs/gqlgen/graphql"
 	"github.com/99designs/gqlgen/graphql/errcode"
 	"github.com/gorilla/websocket"
@@ -226,7 +226,7 @@ func (c *wsConnection) ping(ctx context.Context) {
 			c.pingPongTicker.Stop()
 			return
 		case <-c.pingPongTicker.C:
-			c.write(&message{t: pingMesageType, payload: json.RawMessage{}})
+			c.write(&message{t: pingMesageType, payload: gojson.RawMessage{}})
 		}
 	}
 }

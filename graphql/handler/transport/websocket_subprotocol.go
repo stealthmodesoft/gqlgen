@@ -1,9 +1,8 @@
 package transport
 
 import (
-	"encoding/json"
+	gojson "encoding/json"
 	"errors"
-
 	"github.com/gorilla/websocket"
 )
 
@@ -35,7 +34,7 @@ var (
 type (
 	messageType int
 	message     struct {
-		payload json.RawMessage
+		payload gojson.RawMessage
 		id      string
 		t       messageType
 	}

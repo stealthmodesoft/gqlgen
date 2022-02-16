@@ -2,7 +2,7 @@
 package federation
 
 import (
-	"encoding/json"
+	jsoniter "github.com/json-iterator/go"
 	"strconv"
 	"strings"
 	"testing"
@@ -14,6 +14,8 @@ import (
 	"github.com/99designs/gqlgen/plugin/federation/testdata/entityresolver"
 	"github.com/99designs/gqlgen/plugin/federation/testdata/entityresolver/generated"
 )
+
+var json = jsoniter.ConfigCompatibleWithStandardLibrary
 
 func TestEntityResolver(t *testing.T) {
 	c := client.New(handler.NewDefaultServer(

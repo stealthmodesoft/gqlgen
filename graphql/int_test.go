@@ -1,7 +1,7 @@
 package graphql
 
 import (
-	"encoding/json"
+	gojson "encoding/json"
 	"testing"
 
 	"github.com/stretchr/testify/assert"
@@ -15,7 +15,7 @@ func TestInt(t *testing.T) {
 	t.Run("unmarshal", func(t *testing.T) {
 		assert.Equal(t, 123, mustUnmarshalInt(123))
 		assert.Equal(t, 123, mustUnmarshalInt(int64(123)))
-		assert.Equal(t, 123, mustUnmarshalInt(json.Number("123")))
+		assert.Equal(t, 123, mustUnmarshalInt(gojson.Number("123")))
 		assert.Equal(t, 123, mustUnmarshalInt("123"))
 	})
 }
@@ -36,7 +36,7 @@ func TestInt32(t *testing.T) {
 	t.Run("unmarshal", func(t *testing.T) {
 		assert.Equal(t, int32(123), mustUnmarshalInt32(123))
 		assert.Equal(t, int32(123), mustUnmarshalInt32(int64(123)))
-		assert.Equal(t, int32(123), mustUnmarshalInt32(json.Number("123")))
+		assert.Equal(t, int32(123), mustUnmarshalInt32(gojson.Number("123")))
 		assert.Equal(t, int32(123), mustUnmarshalInt32("123"))
 	})
 }
@@ -57,7 +57,7 @@ func TestInt64(t *testing.T) {
 	t.Run("unmarshal", func(t *testing.T) {
 		assert.Equal(t, int64(123), mustUnmarshalInt64(123))
 		assert.Equal(t, int64(123), mustUnmarshalInt64(int64(123)))
-		assert.Equal(t, int64(123), mustUnmarshalInt64(json.Number("123")))
+		assert.Equal(t, int64(123), mustUnmarshalInt64(gojson.Number("123")))
 		assert.Equal(t, int64(123), mustUnmarshalInt64("123"))
 	})
 }

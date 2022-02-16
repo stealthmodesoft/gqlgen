@@ -2,8 +2,8 @@ package debug
 
 import (
 	"context"
-	"encoding/json"
 	"fmt"
+	jsoniter "github.com/json-iterator/go"
 	"io"
 	"os"
 	"strings"
@@ -14,6 +14,8 @@ import (
 
 	"github.com/99designs/gqlgen/graphql"
 )
+
+var json = jsoniter.ConfigCompatibleWithStandardLibrary
 
 type Tracer struct {
 	DisableColor bool

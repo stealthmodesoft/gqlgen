@@ -1,7 +1,7 @@
 package client
 
 import (
-	"encoding/json"
+	gojson "encoding/json"
 	"fmt"
 	"io/ioutil"
 	"net/http/httptest"
@@ -20,9 +20,9 @@ const (
 )
 
 type operationMessage struct {
-	Payload json.RawMessage `json:"payload,omitempty"`
-	ID      string          `json:"id,omitempty"`
-	Type    string          `json:"type"`
+	Payload gojson.RawMessage `json:"payload,omitempty"`
+	ID      string            `json:"id,omitempty"`
+	Type    string            `json:"type"`
 }
 
 type Subscription struct {

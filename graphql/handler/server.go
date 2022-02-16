@@ -2,8 +2,8 @@ package handler
 
 import (
 	"context"
-	"encoding/json"
 	"fmt"
+	jsoniter "github.com/json-iterator/go"
 	"net/http"
 	"time"
 
@@ -14,6 +14,8 @@ import (
 	"github.com/99designs/gqlgen/graphql/handler/transport"
 	"github.com/vektah/gqlparser/v2/gqlerror"
 )
+
+var json = jsoniter.ConfigCompatibleWithStandardLibrary
 
 type (
 	Server struct {
