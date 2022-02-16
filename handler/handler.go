@@ -5,13 +5,13 @@ import (
 	"net/http"
 	"time"
 
+	"github.com/99designs/gqlgen/graphql"
+	"github.com/99designs/gqlgen/graphql/handler"
+	"github.com/99designs/gqlgen/graphql/handler/extension"
+	"github.com/99designs/gqlgen/graphql/handler/lru"
+	"github.com/99designs/gqlgen/graphql/handler/transport"
+	"github.com/99designs/gqlgen/graphql/playground"
 	"github.com/gorilla/websocket"
-	"github.com/stealthmodesoft/gqlgen/graphql"
-	"github.com/stealthmodesoft/gqlgen/graphql/handler"
-	"github.com/stealthmodesoft/gqlgen/graphql/handler/extension"
-	"github.com/stealthmodesoft/gqlgen/graphql/handler/lru"
-	"github.com/stealthmodesoft/gqlgen/graphql/handler/transport"
-	"github.com/stealthmodesoft/gqlgen/graphql/playground"
 )
 
 // Deprecated: switch to graphql/handler.New

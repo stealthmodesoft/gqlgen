@@ -4,7 +4,7 @@ import (
 	"context"
 	"fmt"
 
-	"github.com/stealthmodesoft/gqlgen/graphql"
+	"github.com/99designs/gqlgen/graphql"
 )
 
 // Use adds the given extension to this Executor.

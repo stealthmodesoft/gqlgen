@@ -7,7 +7,7 @@ import (
 	"strings"
 	"unicode"
 
-	"github.com/stealthmodesoft/gqlgen/codegen/config"
+	"github.com/99designs/gqlgen/codegen/config"
 	"github.com/vektah/gqlparser/v2/ast"
 )
 

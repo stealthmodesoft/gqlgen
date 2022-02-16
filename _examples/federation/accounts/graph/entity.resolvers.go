@@ -6,8 +6,8 @@ package graph
 import (
 	"context"
 
-	"github.com/stealthmodesoft/gqlgen/_examples/federation/accounts/graph/generated"
-	"github.com/stealthmodesoft/gqlgen/_examples/federation/accounts/graph/model"
+	"github.com/99designs/gqlgen/_examples/federation/accounts/graph/generated"
+	"github.com/99designs/gqlgen/_examples/federation/accounts/graph/model"
 )
 
 func (r *entityResolver) FindEmailHostByID(ctx context.Context, id string) (*model.EmailHost, error) {

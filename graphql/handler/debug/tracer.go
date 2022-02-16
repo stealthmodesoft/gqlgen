@@ -12,7 +12,7 @@ import (
 	"github.com/mattn/go-colorable"
 	"github.com/mattn/go-isatty"
 
-	"github.com/stealthmodesoft/gqlgen/graphql"
+	"github.com/99designs/gqlgen/graphql"
 )
 
 var json = jsoniter.ConfigCompatibleWithStandardLibrary

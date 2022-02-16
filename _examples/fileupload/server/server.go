@@ -7,15 +7,15 @@ import (
 	"log"
 	"net/http"
 
-	"github.com/stealthmodesoft/gqlgen/graphql/handler/extension"
-	"github.com/stealthmodesoft/gqlgen/graphql/handler/transport"
+	"github.com/99designs/gqlgen/graphql/handler/extension"
+	"github.com/99designs/gqlgen/graphql/handler/transport"
 
-	"github.com/stealthmodesoft/gqlgen/graphql/playground"
+	"github.com/99designs/gqlgen/graphql/playground"
 
-	"github.com/stealthmodesoft/gqlgen/_examples/fileupload"
-	"github.com/stealthmodesoft/gqlgen/_examples/fileupload/model"
-	"github.com/stealthmodesoft/gqlgen/graphql"
-	"github.com/stealthmodesoft/gqlgen/graphql/handler"
+	"github.com/99designs/gqlgen/_examples/fileupload"
+	"github.com/99designs/gqlgen/_examples/fileupload/model"
+	"github.com/99designs/gqlgen/graphql"
+	"github.com/99designs/gqlgen/graphql/handler"
 )
 
 func main() {

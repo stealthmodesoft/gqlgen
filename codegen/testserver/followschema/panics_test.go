@@ -5,10 +5,10 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/stealthmodesoft/gqlgen/graphql"
+	"github.com/99designs/gqlgen/graphql"
 
-	"github.com/stealthmodesoft/gqlgen/client"
-	"github.com/stealthmodesoft/gqlgen/graphql/handler"
+	"github.com/99designs/gqlgen/client"
+	"github.com/99designs/gqlgen/graphql/handler"
 	"github.com/stretchr/testify/require"
 	"github.com/vektah/gqlparser/v2/gqlerror"
 )

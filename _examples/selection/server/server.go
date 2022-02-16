@@ -4,9 +4,9 @@ import (
 	"log"
 	"net/http"
 
-	"github.com/stealthmodesoft/gqlgen/_examples/selection"
-	"github.com/stealthmodesoft/gqlgen/graphql/handler"
-	"github.com/stealthmodesoft/gqlgen/graphql/playground"
+	"github.com/99designs/gqlgen/_examples/selection"
+	"github.com/99designs/gqlgen/graphql/handler"
+	"github.com/99designs/gqlgen/graphql/playground"
 )
 
 func main() {

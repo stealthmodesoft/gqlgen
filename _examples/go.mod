@@ -1,11 +1,11 @@
-module github.com/stealthmodesoft/gqlgen/_examples
+module github.com/99designs/gqlgen/_examples
 
 go 1.16
 
-replace github.com/stealthmodesoft/gqlgen => ../
+replace github.com/99designs/gqlgen => ../
 
 require (
-	github.com/stealthmodesoft/gqlgen v0.0.0-00010101000000-000000000000
+	github.com/99designs/gqlgen v0.0.0-00010101000000-000000000000
 	github.com/gorilla/websocket v1.4.2
 	github.com/mitchellh/mapstructure v1.4.1
 	github.com/opentracing/opentracing-go v1.2.0

@@ -6,11 +6,11 @@ import (
 	"net/http"
 	"os"
 
-	"github.com/stealthmodesoft/gqlgen/_examples/federation/accounts/graph"
-	"github.com/stealthmodesoft/gqlgen/_examples/federation/accounts/graph/generated"
-	"github.com/stealthmodesoft/gqlgen/graphql/handler"
-	"github.com/stealthmodesoft/gqlgen/graphql/handler/debug"
-	"github.com/stealthmodesoft/gqlgen/graphql/playground"
+	"github.com/99designs/gqlgen/_examples/federation/accounts/graph"
+	"github.com/99designs/gqlgen/_examples/federation/accounts/graph/generated"
+	"github.com/99designs/gqlgen/graphql/handler"
+	"github.com/99designs/gqlgen/graphql/handler/debug"
+	"github.com/99designs/gqlgen/graphql/playground"
 )
 
 const defaultPort = "4001"

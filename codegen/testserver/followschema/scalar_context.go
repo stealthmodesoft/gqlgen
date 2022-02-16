@@ -5,7 +5,7 @@ import (
 	"io"
 	"strconv"
 
-	"github.com/stealthmodesoft/gqlgen/graphql"
+	"github.com/99designs/gqlgen/graphql"
 )
 
 type StringFromContextInterface struct {

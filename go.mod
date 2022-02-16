@@ -1,4 +1,4 @@
-module github.com/stealthmodesoft/gqlgen
+module github.com/99designs/gqlgen
 
 go 1.16
 

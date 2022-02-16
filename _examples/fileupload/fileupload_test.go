@@ -9,11 +9,11 @@ import (
 	"os"
 	"testing"
 
-	"github.com/stealthmodesoft/gqlgen/_examples/fileupload/model"
-	gqlclient "github.com/stealthmodesoft/gqlgen/client"
-	"github.com/stealthmodesoft/gqlgen/graphql"
-	"github.com/stealthmodesoft/gqlgen/graphql/handler"
-	"github.com/stealthmodesoft/gqlgen/graphql/handler/transport"
+	"github.com/99designs/gqlgen/_examples/fileupload/model"
+	gqlclient "github.com/99designs/gqlgen/client"
+	"github.com/99designs/gqlgen/graphql"
+	"github.com/99designs/gqlgen/graphql/handler"
+	"github.com/99designs/gqlgen/graphql/handler/transport"
 	"github.com/stretchr/testify/require"
 )
 

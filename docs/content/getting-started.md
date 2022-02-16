@@ -33,7 +33,7 @@ Next, create a `tools.go` file and add gqlgen as a [tool dependency for your mod
 package tools
 
 import (
-	_ "github.com/stealthmodesoft/gqlgen"
+	_ "github.com/99designs/gqlgen"
 )
 ```
 
@@ -44,7 +44,7 @@ go mod tidy
 
 If you want to specify a particular version of gqlgen, you can use `go get`. For example
 ```shell
-go get -d github.com/stealthmodesoft/gqlgen
+go get -d github.com/99designs/gqlgen
 ```
 
 ## Building the server
@@ -52,7 +52,7 @@ go get -d github.com/stealthmodesoft/gqlgen
 ### Create the project skeleton
 
 ```shell
-go run github.com/stealthmodesoft/gqlgen init
+go run github.com/99designs/gqlgen init
 printf 'package model' | gofmt > graph/model/doc.go
 ```
 
@@ -208,10 +208,10 @@ type Todo struct {
 >
 > By default gqlgen will use any models in the model directory that match on name, this can be configured in `gqlgen.yml`.
 
-And run `go run github.com/stealthmodesoft/gqlgen generate`.
+And run `go run github.com/99designs/gqlgen generate`.
 
 >
-> If you run into this error `package github.com/stealthmodesoft/gqlgen: no Go files` while executing the `generate` command above, follow the instructions in [this](https://github.com/stealthmodesoft/gqlgen/issues/800#issuecomment-888908950) comment for a possible solution.
+> If you run into this error `package github.com/99designs/gqlgen: no Go files` while executing the `generate` command above, follow the instructions in [this](https://github.com/99designs/gqlgen/issues/800#issuecomment-888908950) comment for a possible solution.
 
 Now if we look in `graph/schema.resolvers.go` we can see a new resolver, lets implement it and fix `CreateTodo`.
 ```go
@@ -235,7 +235,7 @@ func (r *todoResolver) User(ctx context.Context, obj *model.Todo) (*model.User, 
 At the top of our `resolver.go`, between `package` and `import`, add the following line:
 
 ```go
-//go:generate go run github.com/stealthmodesoft/gqlgen generate
+//go:generate go run github.com/99designs/gqlgen generate
 ```
 
 This magic comment tells `go generate` what command to run when we want to regenerate our code. To run go generate recursively over your entire project, use this command:

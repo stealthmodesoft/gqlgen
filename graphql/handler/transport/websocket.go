@@ -11,9 +11,9 @@ import (
 	"time"
 
 	gojson "encoding/json"
+	"github.com/99designs/gqlgen/graphql"
+	"github.com/99designs/gqlgen/graphql/errcode"
 	"github.com/gorilla/websocket"
-	"github.com/stealthmodesoft/gqlgen/graphql"
-	"github.com/stealthmodesoft/gqlgen/graphql/errcode"
 	"github.com/vektah/gqlparser/v2/gqlerror"
 )
 

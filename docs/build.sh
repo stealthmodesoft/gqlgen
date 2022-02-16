@@ -50,7 +50,7 @@ rebuild() {
 currentBranch=$(git rev-parse --abbrev-ref HEAD)
 
 if ! git remote  | grep -q origin ; then
-    git remote add origin https://github.com/stealthmodesoft/gqlgen
+    git remote add origin https://github.com/99designs/gqlgen
 fi
 git fetch origin --tags
 

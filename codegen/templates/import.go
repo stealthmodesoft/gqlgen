@@ -6,7 +6,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/stealthmodesoft/gqlgen/internal/code"
+	"github.com/99designs/gqlgen/internal/code"
 )
 
 type Import struct {

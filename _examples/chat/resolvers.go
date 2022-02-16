@@ -8,7 +8,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/stealthmodesoft/gqlgen/graphql"
+	"github.com/99designs/gqlgen/graphql"
 )
 
 type ckey string

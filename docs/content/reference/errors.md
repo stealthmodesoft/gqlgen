@@ -21,7 +21,7 @@ import (
 	"context"
 
 	"github.com/vektah/gqlparser/v2/gqlerror"
-	"github.com/stealthmodesoft/gqlgen/graphql"
+	"github.com/99designs/gqlgen/graphql"
 )
 
 func (r Query) DoThings(ctx context.Context) (bool, error) {
@@ -78,8 +78,8 @@ import (
 	"errors"
 
 	"github.com/vektah/gqlparser/v2/gqlerror"
-	"github.com/stealthmodesoft/gqlgen/graphql"
-	"github.com/stealthmodesoft/gqlgen/graphql/handler"
+	"github.com/99designs/gqlgen/graphql"
+	"github.com/99designs/gqlgen/graphql/handler"
 )
 
 func main() {

@@ -3,7 +3,7 @@ package transport
 import (
 	"net/http"
 
-	"github.com/stealthmodesoft/gqlgen/graphql"
+	"github.com/99designs/gqlgen/graphql"
 )
 
 // Options responds to http OPTIONS and HEAD requests
