@@ -238,7 +238,7 @@ func (ec *executionContext) marshalNBytes2ᚕbyte(ctx context.Context, sel ast.S
 	return res
 }
 
-func (ec *executionContext) marshalOSlices2ᚖgithubᚗcomᚋ99designsᚋgqlgenᚋcodegenᚋtestserverᚋfollowschemaᚐSlices(ctx context.Context, sel ast.SelectionSet, v *Slices) graphql.Marshaler {
+func (ec *executionContext) marshalOSlices2ᚖgithubᚗcomᚋstealthmodesoftᚋgqlgenᚋcodegenᚋtestserverᚋfollowschemaᚐSlices(ctx context.Context, sel ast.SelectionSet, v *Slices) graphql.Marshaler {
 	if v == nil {
 		return graphql.Null
 	}

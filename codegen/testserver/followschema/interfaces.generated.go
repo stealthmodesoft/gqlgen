@@ -275,7 +275,7 @@ func (ec *executionContext) _Circle_coordinates(ctx context.Context, field graph
 	}
 	res := resTmp.(Coordinates)
 	fc.Result = res
-	return ec.marshalOCoordinates2githubᚗcomᚋ99designsᚋgqlgenᚋcodegenᚋtestserverᚋfollowschemaᚐCoordinates(ctx, field.Selections, res)
+	return ec.marshalOCoordinates2githubᚗcomᚋstealthmodesoftᚋgqlgenᚋcodegenᚋtestserverᚋfollowschemaᚐCoordinates(ctx, field.Selections, res)
 }
 
 func (ec *executionContext) _ConcreteNodeA_id(ctx context.Context, field graphql.CollectedField, obj *ConcreteNodeA) (ret graphql.Marshaler) {
@@ -339,7 +339,7 @@ func (ec *executionContext) _ConcreteNodeA_child(ctx context.Context, field grap
 	}
 	res := resTmp.(Node)
 	fc.Result = res
-	return ec.marshalNNode2githubᚗcomᚋ99designsᚋgqlgenᚋcodegenᚋtestserverᚋfollowschemaᚐNode(ctx, field.Selections, res)
+	return ec.marshalNNode2githubᚗcomᚋstealthmodesoftᚋgqlgenᚋcodegenᚋtestserverᚋfollowschemaᚐNode(ctx, field.Selections, res)
 }
 
 func (ec *executionContext) _ConcreteNodeA_name(ctx context.Context, field graphql.CollectedField, obj *ConcreteNodeA) (ret graphql.Marshaler) {
@@ -435,7 +435,7 @@ func (ec *executionContext) _ConcreteNodeInterface_child(ctx context.Context, fi
 	}
 	res := resTmp.(Node)
 	fc.Result = res
-	return ec.marshalNNode2githubᚗcomᚋ99designsᚋgqlgenᚋcodegenᚋtestserverᚋfollowschemaᚐNode(ctx, field.Selections, res)
+	return ec.marshalNNode2githubᚗcomᚋstealthmodesoftᚋgqlgenᚋcodegenᚋtestserverᚋfollowschemaᚐNode(ctx, field.Selections, res)
 }
 
 func (ec *executionContext) _Coordinates_x(ctx context.Context, field graphql.CollectedField, obj *Coordinates) (ret graphql.Marshaler) {
@@ -679,7 +679,7 @@ func (ec *executionContext) _Rectangle_coordinates(ctx context.Context, field gr
 	}
 	res := resTmp.(Coordinates)
 	fc.Result = res
-	return ec.marshalOCoordinates2githubᚗcomᚋ99designsᚋgqlgenᚋcodegenᚋtestserverᚋfollowschemaᚐCoordinates(ctx, field.Selections, res)
+	return ec.marshalOCoordinates2githubᚗcomᚋstealthmodesoftᚋgqlgenᚋcodegenᚋtestserverᚋfollowschemaᚐCoordinates(ctx, field.Selections, res)
 }
 
 // endregion **************************** field.gotpl *****************************
@@ -1145,7 +1145,7 @@ func (ec *executionContext) _Rectangle(ctx context.Context, sel ast.SelectionSet
 
 // region    ***************************** type.gotpl *****************************
 
-func (ec *executionContext) marshalNNode2githubᚗcomᚋ99designsᚋgqlgenᚋcodegenᚋtestserverᚋfollowschemaᚐNode(ctx context.Context, sel ast.SelectionSet, v Node) graphql.Marshaler {
+func (ec *executionContext) marshalNNode2githubᚗcomᚋstealthmodesoftᚋgqlgenᚋcodegenᚋtestserverᚋfollowschemaᚐNode(ctx context.Context, sel ast.SelectionSet, v Node) graphql.Marshaler {
 	if v == nil {
 		if !graphql.HasFieldError(ctx, graphql.GetFieldContext(ctx)) {
 			ec.Errorf(ctx, "must not be null")
@@ -1155,7 +1155,7 @@ func (ec *executionContext) marshalNNode2githubᚗcomᚋ99designsᚋgqlgenᚋcod
 	return ec._Node(ctx, sel, v)
 }
 
-func (ec *executionContext) marshalNShapeUnion2githubᚗcomᚋ99designsᚋgqlgenᚋcodegenᚋtestserverᚋfollowschemaᚐShapeUnion(ctx context.Context, sel ast.SelectionSet, v ShapeUnion) graphql.Marshaler {
+func (ec *executionContext) marshalNShapeUnion2githubᚗcomᚋstealthmodesoftᚋgqlgenᚋcodegenᚋtestserverᚋfollowschemaᚐShapeUnion(ctx context.Context, sel ast.SelectionSet, v ShapeUnion) graphql.Marshaler {
 	if v == nil {
 		if !graphql.HasFieldError(ctx, graphql.GetFieldContext(ctx)) {
 			ec.Errorf(ctx, "must not be null")
@@ -1165,39 +1165,39 @@ func (ec *executionContext) marshalNShapeUnion2githubᚗcomᚋ99designsᚋgqlgen
 	return ec._ShapeUnion(ctx, sel, v)
 }
 
-func (ec *executionContext) marshalOAnimal2githubᚗcomᚋ99designsᚋgqlgenᚋcodegenᚋtestserverᚋfollowschemaᚐAnimal(ctx context.Context, sel ast.SelectionSet, v Animal) graphql.Marshaler {
+func (ec *executionContext) marshalOAnimal2githubᚗcomᚋstealthmodesoftᚋgqlgenᚋcodegenᚋtestserverᚋfollowschemaᚐAnimal(ctx context.Context, sel ast.SelectionSet, v Animal) graphql.Marshaler {
 	if v == nil {
 		return graphql.Null
 	}
 	return ec._Animal(ctx, sel, v)
 }
 
-func (ec *executionContext) marshalOBackedByInterface2githubᚗcomᚋ99designsᚋgqlgenᚋcodegenᚋtestserverᚋfollowschemaᚐBackedByInterface(ctx context.Context, sel ast.SelectionSet, v BackedByInterface) graphql.Marshaler {
+func (ec *executionContext) marshalOBackedByInterface2githubᚗcomᚋstealthmodesoftᚋgqlgenᚋcodegenᚋtestserverᚋfollowschemaᚐBackedByInterface(ctx context.Context, sel ast.SelectionSet, v BackedByInterface) graphql.Marshaler {
 	if v == nil {
 		return graphql.Null
 	}
 	return ec._BackedByInterface(ctx, sel, v)
 }
 
-func (ec *executionContext) marshalOCircle2ᚖgithubᚗcomᚋ99designsᚋgqlgenᚋcodegenᚋtestserverᚋfollowschemaᚐCircle(ctx context.Context, sel ast.SelectionSet, v *Circle) graphql.Marshaler {
+func (ec *executionContext) marshalOCircle2ᚖgithubᚗcomᚋstealthmodesoftᚋgqlgenᚋcodegenᚋtestserverᚋfollowschemaᚐCircle(ctx context.Context, sel ast.SelectionSet, v *Circle) graphql.Marshaler {
 	if v == nil {
 		return graphql.Null
 	}
 	return ec._Circle(ctx, sel, v)
 }
 
-func (ec *executionContext) marshalOCoordinates2githubᚗcomᚋ99designsᚋgqlgenᚋcodegenᚋtestserverᚋfollowschemaᚐCoordinates(ctx context.Context, sel ast.SelectionSet, v Coordinates) graphql.Marshaler {
+func (ec *executionContext) marshalOCoordinates2githubᚗcomᚋstealthmodesoftᚋgqlgenᚋcodegenᚋtestserverᚋfollowschemaᚐCoordinates(ctx context.Context, sel ast.SelectionSet, v Coordinates) graphql.Marshaler {
 	return ec._Coordinates(ctx, sel, &v)
 }
 
-func (ec *executionContext) marshalOShape2githubᚗcomᚋ99designsᚋgqlgenᚋcodegenᚋtestserverᚋfollowschemaᚐShape(ctx context.Context, sel ast.SelectionSet, v Shape) graphql.Marshaler {
+func (ec *executionContext) marshalOShape2githubᚗcomᚋstealthmodesoftᚋgqlgenᚋcodegenᚋtestserverᚋfollowschemaᚐShape(ctx context.Context, sel ast.SelectionSet, v Shape) graphql.Marshaler {
 	if v == nil {
 		return graphql.Null
 	}
 	return ec._Shape(ctx, sel, v)
 }
 
-func (ec *executionContext) marshalOShape2ᚕgithubᚗcomᚋ99designsᚋgqlgenᚋcodegenᚋtestserverᚋfollowschemaᚐShape(ctx context.Context, sel ast.SelectionSet, v []Shape) graphql.Marshaler {
+func (ec *executionContext) marshalOShape2ᚕgithubᚗcomᚋstealthmodesoftᚋgqlgenᚋcodegenᚋtestserverᚋfollowschemaᚐShape(ctx context.Context, sel ast.SelectionSet, v []Shape) graphql.Marshaler {
 	if v == nil {
 		return graphql.Null
 	}
@@ -1224,7 +1224,7 @@ func (ec *executionContext) marshalOShape2ᚕgithubᚗcomᚋ99designsᚋgqlgen�
 			if !isLen1 {
 				defer wg.Done()
 			}
-			ret[i] = ec.marshalOShape2githubᚗcomᚋ99designsᚋgqlgenᚋcodegenᚋtestserverᚋfollowschemaᚐShape(ctx, sel, v[i])
+			ret[i] = ec.marshalOShape2githubᚗcomᚋstealthmodesoftᚋgqlgenᚋcodegenᚋtestserverᚋfollowschemaᚐShape(ctx, sel, v[i])
 		}
 		if isLen1 {
 			f(i)

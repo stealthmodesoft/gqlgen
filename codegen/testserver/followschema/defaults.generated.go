@@ -28,7 +28,7 @@ func (ec *executionContext) field_Mutation_defaultInput_args(ctx context.Context
 	var arg0 DefaultInput
 	if tmp, ok := rawArgs["input"]; ok {
 		ctx := graphql.WithPathContext(ctx, graphql.NewPathWithField("input"))
-		arg0, err = ec.unmarshalNDefaultInput2githubᚗcomᚋ99designsᚋgqlgenᚋcodegenᚋtestserverᚋfollowschemaᚐDefaultInput(ctx, tmp)
+		arg0, err = ec.unmarshalNDefaultInput2githubᚗcomᚋstealthmodesoftᚋgqlgenᚋcodegenᚋtestserverᚋfollowschemaᚐDefaultInput(ctx, tmp)
 		if err != nil {
 			return nil, err
 		}
@@ -43,7 +43,7 @@ func (ec *executionContext) field_Mutation_updatePtrToPtr_args(ctx context.Conte
 	var arg0 UpdatePtrToPtrOuter
 	if tmp, ok := rawArgs["input"]; ok {
 		ctx := graphql.WithPathContext(ctx, graphql.NewPathWithField("input"))
-		arg0, err = ec.unmarshalNUpdatePtrToPtrOuter2githubᚗcomᚋ99designsᚋgqlgenᚋcodegenᚋtestserverᚋfollowschemaᚐUpdatePtrToPtrOuter(ctx, tmp)
+		arg0, err = ec.unmarshalNUpdatePtrToPtrOuter2githubᚗcomᚋstealthmodesoftᚋgqlgenᚋcodegenᚋtestserverᚋfollowschemaᚐUpdatePtrToPtrOuter(ctx, tmp)
 		if err != nil {
 			return nil, err
 		}
@@ -58,7 +58,7 @@ func (ec *executionContext) field_Mutation_updateSomething_args(ctx context.Cont
 	var arg0 SpecialInput
 	if tmp, ok := rawArgs["input"]; ok {
 		ctx := graphql.WithPathContext(ctx, graphql.NewPathWithField("input"))
-		arg0, err = ec.unmarshalNSpecialInput2githubᚗcomᚋ99designsᚋgqlgenᚋcodegenᚋtestserverᚋfollowschemaᚐSpecialInput(ctx, tmp)
+		arg0, err = ec.unmarshalNSpecialInput2githubᚗcomᚋstealthmodesoftᚋgqlgenᚋcodegenᚋtestserverᚋfollowschemaᚐSpecialInput(ctx, tmp)
 		if err != nil {
 			return nil, err
 		}
@@ -169,7 +169,7 @@ func (ec *executionContext) _Mutation_defaultInput(ctx context.Context, field gr
 	}
 	res := resTmp.(*DefaultParametersMirror)
 	fc.Result = res
-	return ec.marshalNDefaultParametersMirror2ᚖgithubᚗcomᚋ99designsᚋgqlgenᚋcodegenᚋtestserverᚋfollowschemaᚐDefaultParametersMirror(ctx, field.Selections, res)
+	return ec.marshalNDefaultParametersMirror2ᚖgithubᚗcomᚋstealthmodesoftᚋgqlgenᚋcodegenᚋtestserverᚋfollowschemaᚐDefaultParametersMirror(ctx, field.Selections, res)
 }
 
 func (ec *executionContext) _Mutation_updateSomething(ctx context.Context, field graphql.CollectedField) (ret graphql.Marshaler) {
@@ -247,7 +247,7 @@ func (ec *executionContext) _Mutation_updatePtrToPtr(ctx context.Context, field 
 	}
 	res := resTmp.(*PtrToPtrOuter)
 	fc.Result = res
-	return ec.marshalNPtrToPtrOuter2ᚖgithubᚗcomᚋ99designsᚋgqlgenᚋcodegenᚋtestserverᚋfollowschemaᚐPtrToPtrOuter(ctx, field.Selections, res)
+	return ec.marshalNPtrToPtrOuter2ᚖgithubᚗcomᚋstealthmodesoftᚋgqlgenᚋcodegenᚋtestserverᚋfollowschemaᚐPtrToPtrOuter(ctx, field.Selections, res)
 }
 
 // endregion **************************** field.gotpl *****************************
@@ -399,16 +399,16 @@ func (ec *executionContext) _Mutation(ctx context.Context, sel ast.SelectionSet)
 
 // region    ***************************** type.gotpl *****************************
 
-func (ec *executionContext) unmarshalNDefaultInput2githubᚗcomᚋ99designsᚋgqlgenᚋcodegenᚋtestserverᚋfollowschemaᚐDefaultInput(ctx context.Context, v interface{}) (DefaultInput, error) {
+func (ec *executionContext) unmarshalNDefaultInput2githubᚗcomᚋstealthmodesoftᚋgqlgenᚋcodegenᚋtestserverᚋfollowschemaᚐDefaultInput(ctx context.Context, v interface{}) (DefaultInput, error) {
 	res, err := ec.unmarshalInputDefaultInput(ctx, v)
 	return res, graphql.ErrorOnPath(ctx, err)
 }
 
-func (ec *executionContext) marshalNDefaultParametersMirror2githubᚗcomᚋ99designsᚋgqlgenᚋcodegenᚋtestserverᚋfollowschemaᚐDefaultParametersMirror(ctx context.Context, sel ast.SelectionSet, v DefaultParametersMirror) graphql.Marshaler {
+func (ec *executionContext) marshalNDefaultParametersMirror2githubᚗcomᚋstealthmodesoftᚋgqlgenᚋcodegenᚋtestserverᚋfollowschemaᚐDefaultParametersMirror(ctx context.Context, sel ast.SelectionSet, v DefaultParametersMirror) graphql.Marshaler {
 	return ec._DefaultParametersMirror(ctx, sel, &v)
 }
 
-func (ec *executionContext) marshalNDefaultParametersMirror2ᚖgithubᚗcomᚋ99designsᚋgqlgenᚋcodegenᚋtestserverᚋfollowschemaᚐDefaultParametersMirror(ctx context.Context, sel ast.SelectionSet, v *DefaultParametersMirror) graphql.Marshaler {
+func (ec *executionContext) marshalNDefaultParametersMirror2ᚖgithubᚗcomᚋstealthmodesoftᚋgqlgenᚋcodegenᚋtestserverᚋfollowschemaᚐDefaultParametersMirror(ctx context.Context, sel ast.SelectionSet, v *DefaultParametersMirror) graphql.Marshaler {
 	if v == nil {
 		if !graphql.HasFieldError(ctx, graphql.GetFieldContext(ctx)) {
 			ec.Errorf(ctx, "must not be null")

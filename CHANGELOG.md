@@ -919,7 +919,7 @@ output to our own stdout/stderr rather than devnull.
 
 - <a href="https://github.com/stealthmodesoft/gqlgen/commit/cacd49a6d0421093bdb67d17551ea0323ceb438a"><tt>cacd49a6</tt></a> Update README.md
 
-<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/7d549d6476853a33aaacab76c3d954bed9d6f0cd"><tt>7d549d64</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/17">#1617</a> from 99designs/update-docs-for-go1.17</summary>
+<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/7d549d6476853a33aaacab76c3d954bed9d6f0cd"><tt>7d549d64</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/17">#1617</a> from stealthmodesoft/update-docs-for-go1.17</summary>
 
 Update docs for getting started
 
@@ -933,7 +933,7 @@ Update docs for getting started
 
 - <a href="https://github.com/stealthmodesoft/gqlgen/commit/2272e05bc00cc9f38e6d3179a8981651812acbba"><tt>2272e05b</tt></a> Update README.md
 
-<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/ef4d4a38a229a485bec4f111a1112b47c638382e"><tt>ef4d4a38</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/14">#1614</a> from 99designs/go-1.16</summary>
+<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/ef4d4a38a229a485bec4f111a1112b47c638382e"><tt>ef4d4a38</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/14">#1614</a> from stealthmodesoft/go-1.16</summary>
 
 Also test against 1.16
 
@@ -941,7 +941,7 @@ Also test against 1.16
 
 - <a href="https://github.com/stealthmodesoft/gqlgen/commit/00ed6fb1a74b1c94d195b38025b1721f9c77db90"><tt>00ed6fb1</tt></a> Also test against 1.16
 
-<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/473f0671b5d9c3a0bb9afe6c2de2b4f10d9eeef6"><tt>473f0671</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/13">#1613</a> from 99designs/bump-non-module-deps</summary>
+<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/473f0671b5d9c3a0bb9afe6c2de2b4f10d9eeef6"><tt>473f0671</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/13">#1613</a> from stealthmodesoft/bump-non-module-deps</summary>
 
 Clean up non-module deps
 
@@ -949,7 +949,7 @@ Clean up non-module deps
 
 - <a href="https://github.com/stealthmodesoft/gqlgen/commit/6960c0c2adbe9e2359e0d7cb332d1eaceccb6b6f"><tt>6960c0c2</tt></a> Bump non-module deps
 
-<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/bf9b34aae2eb079913aacbb75fa8b3dff7c45c32"><tt>bf9b34aa</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/12">#1612</a> from 99designs/update-linter</summary>
+<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/bf9b34aae2eb079913aacbb75fa8b3dff7c45c32"><tt>bf9b34aa</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/12">#1612</a> from stealthmodesoft/update-linter</summary>
 
 Update golangci linter
 
@@ -959,7 +959,7 @@ Update golangci linter
 
 - <a href="https://github.com/stealthmodesoft/gqlgen/commit/777dabde381c1c4b1b6bb0316658f65cce22c654"><tt>777dabde</tt></a> Update the linter
 
-<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/85dd47bb8ca9547ebc3530f441aab8a99e16b5a7"><tt>85dd47bb</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/07">#1607</a> from 99designs/example-module</summary>
+<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/85dd47bb8ca9547ebc3530f441aab8a99e16b5a7"><tt>85dd47bb</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/07">#1607</a> from stealthmodesoft/example-module</summary>
 
 [POC/RFC] Split examples into separate go module
 
@@ -967,7 +967,7 @@ Update golangci linter
 
 - <a href="https://github.com/stealthmodesoft/gqlgen/commit/f93fb2489285eef0542c4aa7b11341a8479b606a"><tt>f93fb248</tt></a> Split examples into separate go module
 
-<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/890f5f66fb2059ccd760bb7dd708b04166ed274d"><tt>890f5f66</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/10">#1610</a> from 99designs/go-1.17</summary>
+<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/890f5f66fb2059ccd760bb7dd708b04166ed274d"><tt>890f5f66</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/10">#1610</a> from stealthmodesoft/go-1.17</summary>
 
 Update to go 1.17
 
@@ -1165,43 +1165,43 @@ Return introspection document in stable order
 
 </details></dd></dl>
 
-<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/a0232dd21c2fe51d8d52e6541d7a01d50bbaab4d"><tt>a0232dd2</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/03">#1603</a> from 99designs/dependabot/npm_and_yarn/integration/normalize-url-4.5.1</summary>
+<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/a0232dd21c2fe51d8d52e6541d7a01d50bbaab4d"><tt>a0232dd2</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/03">#1603</a> from stealthmodesoft/dependabot/npm_and_yarn/integration/normalize-url-4.5.1</summary>
 
 Bump normalize-url from 4.5.0 to 4.5.1 in /integration
 
 </details></dd></dl>
 
-<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/4e059eba3d28e0b27445ba71ffe670852c84c096"><tt>4e059eba</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/02">#1602</a> from 99designs/dependabot/npm_and_yarn/integration/ini-1.3.8</summary>
+<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/4e059eba3d28e0b27445ba71ffe670852c84c096"><tt>4e059eba</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/02">#1602</a> from stealthmodesoft/dependabot/npm_and_yarn/integration/ini-1.3.8</summary>
 
 Bump ini from 1.3.5 to 1.3.8 in /integration
 
 </details></dd></dl>
 
-<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/43705d459a1340ef0e7c4ee46af97cec592c976c"><tt>43705d45</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/01">#1601</a> from 99designs/dependabot/npm_and_yarn/integration/y18n-3.2.2</summary>
+<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/43705d459a1340ef0e7c4ee46af97cec592c976c"><tt>43705d45</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/01">#1601</a> from stealthmodesoft/dependabot/npm_and_yarn/integration/y18n-3.2.2</summary>
 
 Bump y18n from 3.2.1 to 3.2.2 in /integration
 
 </details></dd></dl>
 
-<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/1f2465c6d29a731ad1b9dd5b08d57da37ce14043"><tt>1f2465c6</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/00">#1600</a> from 99designs/dependabot/npm_and_yarn/integration/browserslist-4.17.0</summary>
+<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/1f2465c6d29a731ad1b9dd5b08d57da37ce14043"><tt>1f2465c6</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/00">#1600</a> from stealthmodesoft/dependabot/npm_and_yarn/integration/browserslist-4.17.0</summary>
 
 Bump browserslist from 4.14.0 to 4.17.0 in /integration
 
 </details></dd></dl>
 
-<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/bbdebd4c55194a2e18428a33546adbecea99b05d"><tt>bbdebd4c</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/99">#1599</a> from 99designs/dependabot/npm_and_yarn/integration/hosted-git-info-2.8.9</summary>
+<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/bbdebd4c55194a2e18428a33546adbecea99b05d"><tt>bbdebd4c</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/99">#1599</a> from stealthmodesoft/dependabot/npm_and_yarn/integration/hosted-git-info-2.8.9</summary>
 
 Bump hosted-git-info from 2.8.5 to 2.8.9 in /integration
 
 </details></dd></dl>
 
-<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/900a37af53ee048bd10a755d227bebf11b0bc53f"><tt>900a37af</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/98">#1598</a> from 99designs/dependabot/npm_and_yarn/integration/node-fetch-2.6.1</summary>
+<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/900a37af53ee048bd10a755d227bebf11b0bc53f"><tt>900a37af</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/98">#1598</a> from stealthmodesoft/dependabot/npm_and_yarn/integration/node-fetch-2.6.1</summary>
 
 Bump node-fetch from 2.6.0 to 2.6.1 in /integration
 
 </details></dd></dl>
 
-<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/9d334cdd222c4616165e0ef168086c4d178d4313"><tt>9d334cdd</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/97">#1597</a> from 99designs/dependabot/npm_and_yarn/integration/ws-7.4.6</summary>
+<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/9d334cdd222c4616165e0ef168086c4d178d4313"><tt>9d334cdd</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/97">#1597</a> from stealthmodesoft/dependabot/npm_and_yarn/integration/ws-7.4.6</summary>
 
 Bump ws from 7.3.1 to 7.4.6 in /integration
 
@@ -1315,13 +1315,13 @@ updated-dependencies:
 
 </details></dd></dl>
 
-<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/2b3b721258bb22d0da26790a9383047cf1ef444c"><tt>2b3b7212</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/94">#1594</a> from 99designs/dependabot/npm_and_yarn/integration/tar-6.1.11</summary>
+<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/2b3b721258bb22d0da26790a9383047cf1ef444c"><tt>2b3b7212</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/94">#1594</a> from stealthmodesoft/dependabot/npm_and_yarn/integration/tar-6.1.11</summary>
 
 Bump tar from 6.0.5 to 6.1.11 in /integration
 
 </details></dd></dl>
 
-<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/5b43833db94d42332553ba79103f3d054c461e62"><tt>5b43833d</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/82">#1582</a> from 99designs/dependabot/npm_and_yarn/integration/path-parse-1.0.7</summary>
+<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/5b43833db94d42332553ba79103f3d054c461e62"><tt>5b43833d</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/82">#1582</a> from stealthmodesoft/dependabot/npm_and_yarn/integration/path-parse-1.0.7</summary>
 
 Bump path-parse from 1.0.6 to 1.0.7 in /integration
 
@@ -1441,7 +1441,7 @@ generated files get put.
 
 - <a href="https://github.com/stealthmodesoft/gqlgen/commit/058a365a3608a0d8e9704ee8715eb6c70e7cc902"><tt>058a365a</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/56">#1456</a> from skaji/issue-1455
 
-<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/bf2fdf4401b3c77a4d032572f641787eb99e8b71"><tt>bf2fdf44</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/14">#1514</a> from 99designs/bump-gqlparser</summary>
+<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/bf2fdf4401b3c77a4d032572f641787eb99e8b71"><tt>bf2fdf44</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/14">#1514</a> from stealthmodesoft/bump-gqlparser</summary>
 
 Bump gqlparser to v2.2.0
 
@@ -1490,13 +1490,13 @@ Resolve indirect dependency vulnerability in example
 
 </details></dd></dl>
 
-<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/29e7bccbf7fcb7d8d7f8c47cabd7abdc542cdcc6"><tt>29e7bccb</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/01">#1501</a> from 99designs/fix-init-1.16</summary>
+<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/29e7bccbf7fcb7d8d7f8c47cabd7abdc542cdcc6"><tt>29e7bccb</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/01">#1501</a> from stealthmodesoft/fix-init-1.16</summary>
 
 Run go mod tidy after code generation
 
 </details></dd></dl>
 
-<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/9a4c80abc704d77c9471f5b7ee47d64cbced0348"><tt>9a4c80ab</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/02">#1502</a> from 99designs/rm-chi</summary>
+<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/9a4c80abc704d77c9471f5b7ee47d64cbced0348"><tt>9a4c80ab</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/02">#1502</a> from stealthmodesoft/rm-chi</summary>
 
 Remove chi from dataloader example
 
@@ -1625,13 +1625,13 @@ bugfix: Default Recover func should return gqlerror.Error
 
 </details></dd></dl>
 
-<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/2af51336b421f45bd5076f5ee144d4d44c15ec54"><tt>2af51336</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/00">#1400</a> from 99designs/sanstale</summary>
+<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/2af51336b421f45bd5076f5ee144d4d44c15ec54"><tt>2af51336</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/00">#1400</a> from stealthmodesoft/sanstale</summary>
 
 Remove stale bot
 
 </details></dd></dl>
 
-<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/34a442c7980f5ba363f58aaee67b9ddaa77d7520"><tt>34a442c7</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/99">#1399</a> from 99designs/prevent-possible-error-deadlock</summary>
+<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/34a442c7980f5ba363f58aaee67b9ddaa77d7520"><tt>34a442c7</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/99">#1399</a> from stealthmodesoft/prevent-possible-error-deadlock</summary>
 
 Dont hold error lock when calling into error presenters
 
@@ -1788,7 +1788,7 @@ Rajas/fix gqlgen 1299
 
 - <a href="https://github.com/stealthmodesoft/gqlgen/commit/259f27119bf24ef4806e86334200c216429fbf5c"><tt>259f2711</tt></a> Bump to gqlparser to v2.1.0 Error unwrapping release
 
-<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/669a16680de3e31be5650ccdbf6ca4e8f011dcda"><tt>669a1668</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/12">#1312</a> from 99designs/error-wrapping</summary>
+<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/669a16680de3e31be5650ccdbf6ca4e8f011dcda"><tt>669a1668</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/12">#1312</a> from stealthmodesoft/error-wrapping</summary>
 
 Always wrap user errors
 
@@ -1866,7 +1866,7 @@ fix same field name in two different fragments
 
 </details></dd></dl>
 
-<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/eb424a22657c04b3f2a08d592fe132ca8ff6309f"><tt>eb424a22</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/94">#1294</a> from 99designs/fix-init</summary>
+<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/eb424a22657c04b3f2a08d592fe132ca8ff6309f"><tt>eb424a22</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/94">#1294</a> from stealthmodesoft/fix-init</summary>
 
 Allow rewriter to work on empty but potentially importable packages
 
@@ -1930,7 +1930,7 @@ Documentation Fixes
 
 </details></dd></dl>
 
-<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/04f6a691577d627caaa0952c13cedecda5455e28"><tt>04f6a691</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/77">#1277</a> from 99designs/direct-pointer-binding</summary>
+<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/04f6a691577d627caaa0952c13cedecda5455e28"><tt>04f6a691</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/77">#1277</a> from stealthmodesoft/direct-pointer-binding</summary>
 
 Support pointers in un/marshal functions
 
@@ -1966,7 +1966,7 @@ Add LoadDefaultConfig to load the schema by default
 
 </details></dd></dl>
 
-<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/1b23cf15b134cd695a11fe899d59c5457778a8be"><tt>1b23cf15</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/64">#1264</a> from 99designs/go-1.14</summary>
+<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/1b23cf15b134cd695a11fe899d59c5457778a8be"><tt>1b23cf15</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/64">#1264</a> from stealthmodesoft/go-1.14</summary>
 
 Target multiple go versions for CI
 
@@ -2014,7 +2014,7 @@ Fix typo cause memory problem on upload
 
 - <a href="https://github.com/stealthmodesoft/gqlgen/commit/cc9c520f1ecf11e5786f2aca8d9cf24ef4af2f2e"><tt>cc9c520f</tt></a> close the connection when run returns
 
-<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/8494028eac6a22ef26f71ff30a9eb5738a86adff"><tt>8494028e</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/43">#1243</a> from 99designs/nilable-nullable-unnmarshal</summary>
+<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/8494028eac6a22ef26f71ff30a9eb5738a86adff"><tt>8494028e</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/43">#1243</a> from stealthmodesoft/nilable-nullable-unnmarshal</summary>
 
 Remove a bunch of unneeded nil checks from non-nullable graphql type unmarshalling
 
@@ -2030,7 +2030,7 @@ Adding Missing Header to response
 
 </details></dd></dl>
 
-<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/1650c499548c074d5afb152a90235589dc98d107"><tt>1650c499</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/42">#1242</a> from 99designs/named_map_references</summary>
+<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/1650c499548c074d5afb152a90235589dc98d107"><tt>1650c499</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/42">#1242</a> from stealthmodesoft/named_map_references</summary>
 
 Do not use pointers on named map types
 
@@ -2329,7 +2329,7 @@ PRs from outside the org arent running CI, hopefully this fixes it.
 
 - <a href="https://github.com/stealthmodesoft/gqlgen/commit/4b949f2e69026b51ddd26b71d5efb7b5dc8c6aca"><tt>4b949f2e</tt></a> remove copyright notice at bottom of doc pages
 
-<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/c5039196612e7afeee14fc6373d8dcfe70eb5ab9"><tt>c5039196</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/94">#1094</a> from 99designs/update-upload-docs</summary>
+<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/c5039196612e7afeee14fc6373d8dcfe70eb5ab9"><tt>c5039196</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/94">#1094</a> from stealthmodesoft/update-upload-docs</summary>
 
 Update file upload docs with Apollo client usage
 
@@ -2381,7 +2381,7 @@ Upgrade to github.com/urfave/cli/v2
 
 </details></dd></dl>
 
-<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/bb5cb8a3dd51980a9b5c27dc4d5da87e9ab9a1c9"><tt>bb5cb8a3</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/86">#1086</a> from 99designs/github-actions</summary>
+<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/bb5cb8a3dd51980a9b5c27dc4d5da87e9ab9a1c9"><tt>bb5cb8a3</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/86">#1086</a> from stealthmodesoft/github-actions</summary>
 
 Use GitHub Actions
 
@@ -2469,7 +2469,7 @@ I think todo is referenced to user by user_id field, not by todo.id
 
 - <a href="https://github.com/stealthmodesoft/gqlgen/commit/22a43d776126936526ae37070ccc765983823f23"><tt>22a43d77</tt></a> fix server path
 
-<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/b788cce5682351522a12ae63e8f1d11be60276a1"><tt>b788cce5</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/54">#1054</a> from 99designs/golint-free-resolvers</summary>
+<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/b788cce5682351522a12ae63e8f1d11be60276a1"><tt>b788cce5</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/54">#1054</a> from stealthmodesoft/golint-free-resolvers</summary>
 
 suppress golint messages
 
@@ -2505,7 +2505,7 @@ Based on this https://github.com/stealthmodesoft/gqlgen/issues/954 was tagged as
 
 </details></dd></dl>
 
-<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/a53ce377c9f7601f09e00da71a958c6f45deca4c"><tt>a53ce377</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/51">#1051</a> from 99designs/has-operation-context</summary>
+<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/a53ce377c9f7601f09e00da71a958c6f45deca4c"><tt>a53ce377</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/51">#1051</a> from stealthmodesoft/has-operation-context</summary>
 
 Add function to check presense of operation context
 
@@ -2535,7 +2535,7 @@ Add function to check presense of operation context
 ## [v0.11.1](https://github.com/stealthmodesoft/gqlgen/compare/v0.11.0...v0.11.1) - 2020-02-19
 - <a href="https://github.com/stealthmodesoft/gqlgen/commit/11af15a14ba1f3217f1e81a0aeaf053f3f17d56d"><tt>11af15a1</tt></a> release v0.11.1
 
-<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/bc07188cd6eaa4b5509843c7cc2d20a03623c759"><tt>bc07188c</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/38">#1038</a> from 99designs/feat-check-len</summary>
+<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/bc07188cd6eaa4b5509843c7cc2d20a03623c759"><tt>bc07188c</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/38">#1038</a> from stealthmodesoft/feat-check-len</summary>
 
 check slice length
 
@@ -2543,7 +2543,7 @@ check slice length
 
 - <a href="https://github.com/stealthmodesoft/gqlgen/commit/2c3853c8dc0f500339e7349f9256c3a9ac1ef129"><tt>2c3853c8</tt></a> fix whitespace in comparison
 
-<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/07a13861cf2a3bcaa96433a3a5e6380f688489f4"><tt>07a13861</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/43">#1043</a> from 99designs/ensure-panic-handlers-get-applied</summary>
+<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/07a13861cf2a3bcaa96433a3a5e6380f688489f4"><tt>07a13861</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/43">#1043</a> from stealthmodesoft/ensure-panic-handlers-get-applied</summary>
 
 Ensure panic handlers get applied
 
@@ -2591,7 +2591,7 @@ Fix link to examples directory in Federation docs
 ## [v0.11.0](https://github.com/stealthmodesoft/gqlgen/compare/v0.10.2...v0.11.0) - 2020-02-17
 - <a href="https://github.com/stealthmodesoft/gqlgen/commit/368597aa18d82bc778e45d8e1f7a817a70ca62a7"><tt>368597aa</tt></a> release v0.11.0
 
-<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/e65d62285c5af647fa58ae947fde286f3e0ccc9c"><tt>e65d6228</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/36">#1036</a> from 99designs/update-v011-docs</summary>
+<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/e65d62285c5af647fa58ae947fde286f3e0ccc9c"><tt>e65d6228</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/36">#1036</a> from stealthmodesoft/update-v011-docs</summary>
 
 Update 0.11 migration docs
 
@@ -2599,7 +2599,7 @@ Update 0.11 migration docs
 
 - <a href="https://github.com/stealthmodesoft/gqlgen/commit/11f979365864fd6739fcf9c6d8d6deddfed834ba"><tt>11f97936</tt></a> Update 0.11 migration docs
 
-<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/2b3eed303e63e433088efbfa026b7a42e66ff0de"><tt>2b3eed30</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/34">#1034</a> from 99designs/strip-underscores-from-entity-interfaces</summary>
+<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/2b3eed303e63e433088efbfa026b7a42e66ff0de"><tt>2b3eed30</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/34">#1034</a> from stealthmodesoft/strip-underscores-from-entity-interfaces</summary>
 
 Trim underscores from around go identifiers
 
@@ -2617,7 +2617,7 @@ propagate resolver errors to response error in ResponseMiddleware
 
 </details></dd></dl>
 
-<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/14dccc57885df5d5ca4ef347c1b80f5f3648719a"><tt>14dccc57</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/22">#1022</a> from 99designs/feat-gqlparser-117</summary>
+<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/14dccc57885df5d5ca4ef347c1b80f5f3648719a"><tt>14dccc57</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/22">#1022</a> from stealthmodesoft/feat-gqlparser-117</summary>
 
 example about apply https://github.com/vektah/gqlparser/pull/117
 
@@ -2643,7 +2643,7 @@ Respect includeDeprecated for EnumValues
 
 - <a href="https://github.com/stealthmodesoft/gqlgen/commit/e4530da6a4636a6d6430ae93356fa423d7a5ead7"><tt>e4530da6</tt></a> apply https://github.com/vektah/gqlparser/pull/117
 
-<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/30e23757e9b50612f3300edd84310efe7eac9d4d"><tt>30e23757</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/20">#1020</a> from 99designs/handle-interfaces-implementing-interfaces</summary>
+<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/30e23757e9b50612f3300edd84310efe7eac9d4d"><tt>30e23757</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/20">#1020</a> from stealthmodesoft/handle-interfaces-implementing-interfaces</summary>
 
 Handle interfaces that implement interfaces
 
@@ -2651,7 +2651,7 @@ Handle interfaces that implement interfaces
 
 - <a href="https://github.com/stealthmodesoft/gqlgen/commit/b7a58a1c0e4b30a75d97ef69a8593e1ce3914bf2"><tt>b7a58a1c</tt></a> Handle interfaces that implement interfaces
 
-<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/ab8d62b67dd0dd9a27ad5320b3cb57b0bd76df51"><tt>ab8d62b6</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/19">#1019</a> from 99designs/remove-source-reprinting</summary>
+<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/ab8d62b67dd0dd9a27ad5320b3cb57b0bd76df51"><tt>ab8d62b6</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/19">#1019</a> from stealthmodesoft/remove-source-reprinting</summary>
 
 Remove source reprinting
 
@@ -2661,7 +2661,7 @@ Remove source reprinting
 
 - <a href="https://github.com/stealthmodesoft/gqlgen/commit/aacc9b1fd6ff8fa91d4b4985b4c115796851b416"><tt>aacc9b1f</tt></a> Remove source reprinting
 
-<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/e289aaa0b2ee378279710b018f0fb1c9c0da7997"><tt>e289aaa0</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/18">#1018</a> from 99designs/federation-docs</summary>
+<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/e289aaa0b2ee378279710b018f0fb1c9c0da7997"><tt>e289aaa0</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/18">#1018</a> from stealthmodesoft/federation-docs</summary>
 
 Federation docs and examples
 
@@ -2669,7 +2669,7 @@ Federation docs and examples
 
 - <a href="https://github.com/stealthmodesoft/gqlgen/commit/3045b2cfadc80b4645dbb7228bf7e3cceb74d3c7"><tt>3045b2cf</tt></a> Federation docs and examples
 
-<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/656a07d1877081199058c3bc54ed521350a15e72"><tt>656a07d1</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/16">#1016</a> from 99designs/federation-entity-type</summary>
+<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/656a07d1877081199058c3bc54ed521350a15e72"><tt>656a07d1</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/16">#1016</a> from stealthmodesoft/federation-entity-type</summary>
 
 Create a non generated federation _Entity type
 
@@ -2677,13 +2677,13 @@ Create a non generated federation _Entity type
 
 - <a href="https://github.com/stealthmodesoft/gqlgen/commit/8850a527a89f9b880531dc7fdcfec1016882b777"><tt>8850a527</tt></a> Create a non generated federation _Entity type
 
-<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/1d41c2ebf22664de9660365fb4584c4ca1ac776c"><tt>1d41c2eb</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/12">#1012</a> from 99designs/federation-config</summary>
+<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/1d41c2ebf22664de9660365fb4584c4ca1ac776c"><tt>1d41c2eb</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/12">#1012</a> from stealthmodesoft/federation-config</summary>
 
 Allow configuring the federation output file location
 
 </details></dd></dl>
 
-<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/afa9a1504edb7da3e8055ed5923ce74647152396"><tt>afa9a150</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/13">#1013</a> from 99designs/feat-error-dispatch</summary>
+<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/afa9a1504edb7da3e8055ed5923ce74647152396"><tt>afa9a150</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/13">#1013</a> from stealthmodesoft/feat-error-dispatch</summary>
 
 propagate errors to response context in DispatchError
 
@@ -2755,7 +2755,7 @@ too.
 
 </details></dd></dl>
 
-<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/b941b970f0b67a4e102ee1635156a6a2b5a2863b"><tt>b941b970</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/07">#1007</a> from 99designs/handle-invalid-autoload-path</summary>
+<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/b941b970f0b67a4e102ee1635156a6a2b5a2863b"><tt>b941b970</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/07">#1007</a> from stealthmodesoft/handle-invalid-autoload-path</summary>
 
 Give an appropriate error message when autoload isnt a valid package
 
@@ -2767,7 +2767,7 @@ Give an appropriate error message when autoload isnt a valid package
 
 - <a href="https://github.com/stealthmodesoft/gqlgen/commit/d5d6f830475fcaa5790bb1d6390f3876cd9073a2"><tt>d5d6f830</tt></a> Give an appropriate error message when autoload isnt a valid package
 
-<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/f7667e127039af2d7fb4252c0bb3a36554634f80"><tt>f7667e12</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/09">#1009</a> from 99designs/interface-regression</summary>
+<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/f7667e127039af2d7fb4252c0bb3a36554634f80"><tt>f7667e12</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/09">#1009</a> from stealthmodesoft/interface-regression</summary>
 
 Interface regression
 
@@ -2787,7 +2787,7 @@ skip searching directives when entity is found
 
 - <a href="https://github.com/stealthmodesoft/gqlgen/commit/e1f2282e1331fd38c01fe449f116d47d16583cd6"><tt>e1f2282e</tt></a> bump to go 1.13 in ci
 
-<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/34c92eba0b29a49cc592060890263d1677490a3d"><tt>34c92eba</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/03">#1003</a> from 99designs/fix-chat-example</summary>
+<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/34c92eba0b29a49cc592060890263d1677490a3d"><tt>34c92eba</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/03">#1003</a> from stealthmodesoft/fix-chat-example</summary>
 
 fix chat example
 
@@ -2795,7 +2795,7 @@ fix chat example
 
 - <a href="https://github.com/stealthmodesoft/gqlgen/commit/6bf88417d867bce8bc3eca3b52a62f56eee994b9"><tt>6bf88417</tt></a> fix chat example
 
-<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/8ed2ec599b8faed3751177fd4335b1b3c3a79922"><tt>8ed2ec59</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/88">#988</a> from 99designs/package-cache</summary>
+<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/8ed2ec599b8faed3751177fd4335b1b3c3a79922"><tt>8ed2ec59</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/88">#988</a> from stealthmodesoft/package-cache</summary>
 
 Cache all packages.Load calls in a central object
 
@@ -2803,7 +2803,7 @@ Cache all packages.Load calls in a central object
 
 - <a href="https://github.com/stealthmodesoft/gqlgen/commit/9ccd7ed7199405ecbcc917ce601b83b72419009b"><tt>9ccd7ed7</tt></a> Cache all packages.Load calls in a central object
 
-<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/565619a80674052de24a4df5c9a2dba87ceb72df"><tt>565619a8</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/93">#993</a> from 99designs/resolver-generator-v2</summary>
+<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/565619a80674052de24a4df5c9a2dba87ceb72df"><tt>565619a8</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/93">#993</a> from stealthmodesoft/resolver-generator-v2</summary>
 
 Resolver regenerator
 
@@ -2851,7 +2851,7 @@ This commit updates the federation code to support that use case.
 
 </details></dd></dl>
 
-<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/36aae4aa277847bc5dc2d4fcec5ae0c1d7a1d686"><tt>36aae4aa</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/94">#994</a> from 99designs/feat-cache-ctx</summary>
+<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/36aae4aa277847bc5dc2d4fcec5ae0c1d7a1d686"><tt>36aae4aa</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/94">#994</a> from stealthmodesoft/feat-cache-ctx</summary>
 
 Add context.Context to graphql.Cache interface's methods
 
@@ -2873,7 +2873,7 @@ Fix for Panic if only interfaces shall be generated
 
 </details></dd></dl>
 
-<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/ec4f6b151d4c14d704f27ae7fe341f7ad5ad4883"><tt>ec4f6b15</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/89">#989</a> from 99designs/fix-intermittent-test-ka-failure</summary>
+<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/ec4f6b151d4c14d704f27ae7fe341f7ad5ad4883"><tt>ec4f6b15</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/89">#989</a> from stealthmodesoft/fix-intermittent-test-ka-failure</summary>
 
 Fix intermittent websocket ka test failure
 
@@ -2881,7 +2881,7 @@ Fix intermittent websocket ka test failure
 
 - <a href="https://github.com/stealthmodesoft/gqlgen/commit/76035df5e63c580004440762edbf6779fe9243db"><tt>76035df5</tt></a> Fix intermittent websocket ka test failure
 
-<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/aa407b1f3553ac2aee1939fbe28c85ed5cbfcdf9"><tt>aa407b1f</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/79">#979</a> from 99designs/capture-read-times</summary>
+<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/aa407b1f3553ac2aee1939fbe28c85ed5cbfcdf9"><tt>aa407b1f</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/79">#979</a> from stealthmodesoft/capture-read-times</summary>
 
 Capture read times
 
@@ -2897,7 +2897,7 @@ single packages.Load for NameForPackage
 
 </details></dd></dl>
 
-<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/ae79e75bc2d8296551e8b88b7b3f8596f038ca94"><tt>ae79e75b</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/78">#978</a> from 99designs/pluggable-error-code</summary>
+<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/ae79e75bc2d8296551e8b88b7b3f8596f038ca94"><tt>ae79e75b</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/78">#978</a> from stealthmodesoft/pluggable-error-code</summary>
 
 Allow customizing http and websocket status codes for errors
 
@@ -3008,7 +3008,7 @@ README which covers a ton of the details on how to use this project:
 
 - <a href="https://github.com/stealthmodesoft/gqlgen/commit/21356ce35cc55896ee855c9b3238aa00684ac242"><tt>21356ce3</tt></a> markdown cleanup
 
-<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/412a72fe26b093b08d27e90adf0390ad0ea0a7ea"><tt>412a72fe</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/85">#885</a> from 99designs/handler-refactor</summary>
+<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/412a72fe26b093b08d27e90adf0390ad0ea0a7ea"><tt>412a72fe</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/85">#885</a> from stealthmodesoft/handler-refactor</summary>
 
 Refactor handler package
 
@@ -3018,7 +3018,7 @@ Refactor handler package
 
 - <a href="https://github.com/stealthmodesoft/gqlgen/commit/dca9e4a5b04f34f1bba32d472c0075ee9d0ea476"><tt>dca9e4a5</tt></a> Add migration docs
 
-<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/5106480b4c6332c9488b88b4f9a66b29a666948b"><tt>5106480b</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/47">#947</a> from 99designs/handler-oc-handling</summary>
+<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/5106480b4c6332c9488b88b4f9a66b29a666948b"><tt>5106480b</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/47">#947</a> from stealthmodesoft/handler-oc-handling</summary>
 
 always return OperationContext for postpone process
 
@@ -3225,7 +3225,7 @@ See https://golang.org/doc/faq#nil_error
 
 </details></dd></dl>
 
-<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/15b30588a1451bbe280660a1d6cf629f50121d86"><tt>15b30588</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/94">#894</a> from 99designs/enum-var-value-coercion</summary>
+<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/15b30588a1451bbe280660a1d6cf629f50121d86"><tt>15b30588</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/94">#894</a> from stealthmodesoft/enum-var-value-coercion</summary>
 
 Improve enum value (with vars) validation timing
 
@@ -3314,7 +3314,7 @@ Bind to embedded interface
 
 - <a href="https://github.com/stealthmodesoft/gqlgen/commit/a745dc7807357e9064292a7978d80fe85c6794cd"><tt>a745dc78</tt></a> Fixes <a href="https://github.com/stealthmodesoft/gqlgen/pull/43">#843</a>: Bind to embedded struct method or field
 
-<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/f80cab0662d30abd847bfcb012a3d54e7fe4d8bb"><tt>f80cab06</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/23">#923</a> from 99designs/gqlparser-1.2.0</summary>
+<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/f80cab0662d30abd847bfcb012a3d54e7fe4d8bb"><tt>f80cab06</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/23">#923</a> from stealthmodesoft/gqlparser-1.2.0</summary>
 
 Update to gqlparser-1.2.0
 
@@ -3390,7 +3390,7 @@ fix init not use custom schema filename
 
 - <a href="https://github.com/stealthmodesoft/gqlgen/commit/dd98bb13d9a3ae85f9afa525091b8c0c1c2fa7c8"><tt>dd98bb13</tt></a> fix init not use custom schema
 
-<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/4c35356cbe7bf886fd8c59c9f754d2d98f6987b8"><tt>4c35356c</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/83">#883</a> from 99designs/handle-invalid-types</summary>
+<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/4c35356cbe7bf886fd8c59c9f754d2d98f6987b8"><tt>4c35356c</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/83">#883</a> from stealthmodesoft/handle-invalid-types</summary>
 
 Gracefully handle invalid types from invalid go packages
 
@@ -3398,7 +3398,7 @@ Gracefully handle invalid types from invalid go packages
 
 - <a href="https://github.com/stealthmodesoft/gqlgen/commit/25b7027118f99c097255d0d11e7384898d65b471"><tt>25b70271</tt></a> Gracefully handle invalid types from invalid go packages
 
-<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/046054dbda38cc50f8f1e2e3c6073cbcc315c2b1"><tt>046054db</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/82">#882</a> from 99designs/testserver-autobind</summary>
+<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/046054dbda38cc50f8f1e2e3c6073cbcc315c2b1"><tt>046054db</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/82">#882</a> from stealthmodesoft/testserver-autobind</summary>
 
 Use autobinding in testserver
 
@@ -3428,7 +3428,7 @@ Small documentation change to fix a broken GitHub link.
 ## [v0.10.1](https://github.com/stealthmodesoft/gqlgen/compare/v0.10.0...v0.10.1) - 2019-09-25
 - <a href="https://github.com/stealthmodesoft/gqlgen/commit/efb6efe06c6e4fc706440acebf6f81fff85f295c"><tt>efb6efe0</tt></a> release v0.10.1
 
-<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/955f3499b245507e817e74417f8179a18b18eb81"><tt>955f3499</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/77">#877</a> from 99designs/fix-websocket-client</summary>
+<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/955f3499b245507e817e74417f8179a18b18eb81"><tt>955f3499</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/77">#877</a> from stealthmodesoft/fix-websocket-client</summary>
 
 Fix websocket connections on test client
 
@@ -3446,13 +3446,13 @@ Fix websocket connections on test client
 ## [v0.10.0](https://github.com/stealthmodesoft/gqlgen/compare/v0.9.3...v0.10.0) - 2019-09-24
 - <a href="https://github.com/stealthmodesoft/gqlgen/commit/75a837522ff029e1d0c5349922182c14023649ef"><tt>75a83752</tt></a> release v0.10.0
 
-<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/0bc3cc86fae5aef301b93a6e206cb275a053b2a1"><tt>0bc3cc86</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/75">#875</a> from 99designs/fix-clientwide-opts</summary>
+<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/0bc3cc86fae5aef301b93a6e206cb275a053b2a1"><tt>0bc3cc86</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/75">#875</a> from stealthmodesoft/fix-clientwide-opts</summary>
 
 Fix client global options
 
 </details></dd></dl>
 
-<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/b43edf5d613c79cbc3d4e26a9446a81f80437a07"><tt>b43edf5d</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/74">#874</a> from 99designs/configurable-slice-element-pointers</summary>
+<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/b43edf5d613c79cbc3d4e26a9446a81f80437a07"><tt>b43edf5d</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/74">#874</a> from stealthmodesoft/configurable-slice-element-pointers</summary>
 
 Add config option to omit pointers to slice elements
 
@@ -3462,7 +3462,7 @@ Add config option to omit pointers to slice elements
 
 - <a href="https://github.com/stealthmodesoft/gqlgen/commit/d0098e60acc03cc7314bfc743579be75c46625a8"><tt>d0098e60</tt></a> Add config option to omit pointers to slice elements
 
-<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/0189328068eb49438a131715a6d9354dc30731db"><tt>01893280</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/19">#819</a> from 99designs/fix-directive-interface-nils</summary>
+<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/0189328068eb49438a131715a6d9354dc30731db"><tt>01893280</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/19">#819</a> from stealthmodesoft/fix-directive-interface-nils</summary>
 
 Fix directives returning nils from optional interfaces
 
@@ -3476,19 +3476,19 @@ fixes shareable link button in playground
 
 </details></dd></dl>
 
-<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/b5e78342937549496dbc3a362ed7a2a8738279c6"><tt>b5e78342</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/70">#870</a> from 99designs/ws-init-ctx</summary>
+<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/b5e78342937549496dbc3a362ed7a2a8738279c6"><tt>b5e78342</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/70">#870</a> from stealthmodesoft/ws-init-ctx</summary>
 
 Allow changing context in websocket init func
 
 </details></dd></dl>
 
-<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/034aa627cfa5b943497b54595e87b53637a6d1f5"><tt>034aa627</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/71">#871</a> from 99designs/subscription-middleware</summary>
+<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/034aa627cfa5b943497b54595e87b53637a6d1f5"><tt>034aa627</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/71">#871</a> from stealthmodesoft/subscription-middleware</summary>
 
 Call middleware and directives for subscriptions
 
 </details></dd></dl>
 
-<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/7b41ca3c13858ca6e69659ade6bc0fc7a54d81da"><tt>7b41ca3c</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/72">#872</a> from 99designs/autobind-prefix</summary>
+<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/7b41ca3c13858ca6e69659ade6bc0fc7a54d81da"><tt>7b41ca3c</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/72">#872</a> from stealthmodesoft/autobind-prefix</summary>
 
 Allow prefixes when using autobind
 
@@ -3500,7 +3500,7 @@ Fix for nested fields backed by map or interface
 
 </details></dd></dl>
 
-<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/cc64f331d1024d485ee583cdd0be61e8cf03a506"><tt>cc64f331</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/28">#828</a> from 99designs/feat-rc</summary>
+<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/cc64f331d1024d485ee583cdd0be61e8cf03a506"><tt>cc64f331</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/28">#828</a> from stealthmodesoft/feat-rc</summary>
 
 introduce RequestContext#Validate and use it instead of NewRequestContext function
 
@@ -3512,7 +3512,7 @@ introduce RequestContext#Validate and use it instead of NewRequestContext functi
 
 - <a href="https://github.com/stealthmodesoft/gqlgen/commit/5a7c5903f64efb240d575ef947b0ed1d59b1a3d0"><tt>5a7c5903</tt></a> Allow changing context in websocket init func
 
-<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/17f32d28c29ec45dce407f2f6afac16bdd8d64ca"><tt>17f32d28</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/61">#861</a> from 99designs/refactor-test-client</summary>
+<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/17f32d28c29ec45dce407f2f6afac16bdd8d64ca"><tt>17f32d28</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/61">#861</a> from stealthmodesoft/refactor-test-client</summary>
 
 Refactor test client
 
@@ -3540,7 +3540,7 @@ fix formatting
 
 - <a href="https://github.com/stealthmodesoft/gqlgen/commit/feebee7d305e02b6ba96eb9307922436a61f99a4"><tt>feebee7d</tt></a> stalebot
 
-<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/7e643fdc5cc5097f786ef6a386e28feee293fd7a"><tt>7e643fdc</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/38">#838</a> from 99designs/fix-directive-nil</summary>
+<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/7e643fdc5cc5097f786ef6a386e28feee293fd7a"><tt>7e643fdc</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/38">#838</a> from stealthmodesoft/fix-directive-nil</summary>
 
 fix directives return nil handling
 
@@ -3548,7 +3548,7 @@ fix directives return nil handling
 
 - <a href="https://github.com/stealthmodesoft/gqlgen/commit/f33e09e8109cfcc1ef2dd4096d27d0a4b6eee9c8"><tt>f33e09e8</tt></a> Merge branch 'master' into fix-directive-nil
 
-<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/8590edef5b8bbf094240f33c0ed696e034ca80e0"><tt>8590edef</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/39">#839</a> from 99designs/fix-nil-directive</summary>
+<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/8590edef5b8bbf094240f33c0ed696e034ca80e0"><tt>8590edef</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/39">#839</a> from stealthmodesoft/fix-nil-directive</summary>
 
 refactor unimplemented directive handling
 
@@ -3574,7 +3574,7 @@ refactor unimplemented directive handling
 ## [v0.9.3](https://github.com/stealthmodesoft/gqlgen/compare/v0.9.2...v0.9.3) - 2019-08-16
 - <a href="https://github.com/stealthmodesoft/gqlgen/commit/a7bc468ca1b184a5ce1b07ea331e0121fc56ae82"><tt>a7bc468c</tt></a> release v0.9.3
 
-<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/fc02cfe83a8f78f36b5e37a63b0a87bf511e94b2"><tt>fc02cfe8</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/29">#829</a> from 99designs/fix-2directives</summary>
+<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/fc02cfe83a8f78f36b5e37a63b0a87bf511e94b2"><tt>fc02cfe8</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/29">#829</a> from stealthmodesoft/fix-2directives</summary>
 
 fix go syntax issue when field has 2 directives
 
@@ -3600,7 +3600,7 @@ Fixed scalar reference documentation
 ## [v0.9.2](https://github.com/stealthmodesoft/gqlgen/compare/v0.9.1...v0.9.2) - 2019-08-08
 - <a href="https://github.com/stealthmodesoft/gqlgen/commit/4eeacc6e4cb7bedc7c5312b6a3947697ad5cfb55"><tt>4eeacc6e</tt></a> release v0.9.2
 
-<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/5628169dd38517e856e3d12b50696b4e9a79d60f"><tt>5628169d</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/22">#822</a> from 99designs/windows-import-path-loop</summary>
+<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/5628169dd38517e856e3d12b50696b4e9a79d60f"><tt>5628169d</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/22">#822</a> from stealthmodesoft/windows-import-path-loop</summary>
 
 fix for windows infinite loop
 
@@ -3610,7 +3610,7 @@ fix for windows infinite loop
 
 - <a href="https://github.com/stealthmodesoft/gqlgen/commit/6348a5632123286aae227c456f5178275ddb737a"><tt>6348a563</tt></a> fix for windows infinite loop
 
-<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/12893fa4db4bcd5b341aed584dd584d0c6f2b226"><tt>12893fa4</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/21">#821</a> from 99designs/fix-init</summary>
+<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/12893fa4db4bcd5b341aed584dd584d0c6f2b226"><tt>12893fa4</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/21">#821</a> from stealthmodesoft/fix-init</summary>
 
 Fix config loading during gqlgen init
 
@@ -3618,7 +3618,7 @@ Fix config loading during gqlgen init
 
 - <a href="https://github.com/stealthmodesoft/gqlgen/commit/5fafe79c050ae34448ee495c703caced6b8f3126"><tt>5fafe79c</tt></a> Fix config loading during gqlgen init
 
-<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/2599f5607863415a015feb97f1abb9d46359e1ee"><tt>2599f560</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/20">#820</a> from 99designs/keepalive-on-init</summary>
+<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/2599f5607863415a015feb97f1abb9d46359e1ee"><tt>2599f560</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/20">#820</a> from stealthmodesoft/keepalive-on-init</summary>
 
 send keepalive on init
 
@@ -3721,7 +3721,7 @@ map[string]{interface} -> map[string]interface{}
 
 </details></dd></dl>
 
-<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/373359de83dd626d4a19ec57b7b599c58c88ca2c"><tt>373359de</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/81">#781</a> from 99designs/fix-default-directives-init</summary>
+<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/373359de83dd626d4a19ec57b7b599c58c88ca2c"><tt>373359de</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/81">#781</a> from stealthmodesoft/fix-default-directives-init</summary>
 
 Set default directives after parsing config
 
@@ -3737,7 +3737,7 @@ fixed generating a description to golang comments for enum type
 
 </details></dd></dl>
 
-<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/bf2cc90ec9bda2be035d6fc93f58344577f12172"><tt>bf2cc90e</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/68">#768</a> from 99designs/fix-ptr-from-directive</summary>
+<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/bf2cc90ec9bda2be035d6fc93f58344577f12172"><tt>bf2cc90e</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/68">#768</a> from stealthmodesoft/fix-ptr-from-directive</summary>
 
 Fix pointer returns from directive
 
@@ -3767,7 +3767,7 @@ this was affecting the version shown in go modules when using commits
 
 </details></dd></dl>
 
-<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/5ffc29754dd71a847f6860f0fb37d75dea367ee7"><tt>5ffc2975</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/64">#764</a> from 99designs/fix-field-directives-on-roots</summary>
+<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/5ffc29754dd71a847f6860f0fb37d75dea367ee7"><tt>5ffc2975</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/64">#764</a> from stealthmodesoft/fix-field-directives-on-roots</summary>
 
 fix field schema directives applied to roots
 
@@ -3775,7 +3775,7 @@ fix field schema directives applied to roots
 
 - <a href="https://github.com/stealthmodesoft/gqlgen/commit/ef3830b5e951d30dd49c43183dc029c79c338645"><tt>ef3830b5</tt></a> fix field schema directives applied to roots
 
-<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/17ee40ba40898db7b8293e537ee6bb0aa953c0b3"><tt>17ee40ba</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/61">#761</a> from 99designs/autobinding</summary>
+<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/17ee40ba40898db7b8293e537ee6bb0aa953c0b3"><tt>17ee40ba</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/61">#761</a> from stealthmodesoft/autobinding</summary>
 
 Autobind models
 
@@ -3783,7 +3783,7 @@ Autobind models
 
 - <a href="https://github.com/stealthmodesoft/gqlgen/commit/b716bfac517ae641461df88c525643b5fcdf184e"><tt>b716bfac</tt></a> Autobind models
 
-<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/fc3755f1c2f0eb6383c59646388161052aa5e676"><tt>fc3755f1</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/32">#732</a> from 99designs/schemaconfig-plugin</summary>
+<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/fc3755f1c2f0eb6383c59646388161052aa5e676"><tt>fc3755f1</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/32">#732</a> from stealthmodesoft/schemaconfig-plugin</summary>
 
 Add a plugin for configuring gqlgen via directives
 
@@ -3799,7 +3799,7 @@ generate field defenition and execute field directive
 
 </details></dd></dl>
 
-<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/ad2ca304b532470721a0a6d2a9a78b85eef633cf"><tt>ad2ca304</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/59">#759</a> from 99designs/circle-workflows</summary>
+<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/ad2ca304b532470721a0a6d2a9a78b85eef633cf"><tt>ad2ca304</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/59">#759</a> from stealthmodesoft/circle-workflows</summary>
 
 CircleCI workflows
 
@@ -3831,7 +3831,7 @@ Make SQL request use requested IDs
 
 - <a href="https://github.com/stealthmodesoft/gqlgen/commit/dd162f04051c034bfae7c8fb3732975dec449586"><tt>dd162f04</tt></a> define implDirectives template
 
-<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/56f3f92b8ee315ef8a3c32484e6b63dd13ae574a"><tt>56f3f92b</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/55">#755</a> from 99designs/fix-globbing-windows</summary>
+<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/56f3f92b8ee315ef8a3c32484e6b63dd13ae574a"><tt>56f3f92b</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/55">#755</a> from stealthmodesoft/fix-globbing-windows</summary>
 
 fix globbing on windows
 
@@ -3839,7 +3839,7 @@ fix globbing on windows
 
 - <a href="https://github.com/stealthmodesoft/gqlgen/commit/a4480fb078794d8761a77d5053abf7fd0cb759fc"><tt>a4480fb0</tt></a> fix globbing on windows
 
-<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/ba176e2efbc717c6da5ca9b604524104c3daddec"><tt>ba176e2e</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/54">#754</a> from 99designs/coveralls</summary>
+<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/ba176e2efbc717c6da5ca9b604524104c3daddec"><tt>ba176e2e</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/54">#754</a> from stealthmodesoft/coveralls</summary>
 
 Add coveralls
 
@@ -3867,7 +3867,7 @@ Automatic Persisted Queries
 
 </details></dd></dl>
 
-<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/726a94f4895cb9d7ca031e97893e60eac3ac0e5d"><tt>726a94f4</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/50">#750</a> from 99designs/ws-connection-param-check</summary>
+<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/726a94f4895cb9d7ca031e97893e60eac3ac0e5d"><tt>726a94f4</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/50">#750</a> from stealthmodesoft/ws-connection-param-check</summary>
 
 [websocket] Add a config to reject initial connection
 
@@ -3987,7 +3987,7 @@ added a missing close bracket
 
 - <a href="https://github.com/stealthmodesoft/gqlgen/commit/e9389ef8f8eee80eec108983575ed303e99000e9"><tt>e9389ef8</tt></a> added schema file globbing fixes <a href="https://github.com/stealthmodesoft/gqlgen/pull/31">#631</a>
 
-<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/4f163cbc8466634ddaeca0a4071813a76ec55ea5"><tt>4f163cbc</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/13">#713</a> from 99designs/faq</summary>
+<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/4f163cbc8466634ddaeca0a4071813a76ec55ea5"><tt>4f163cbc</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/13">#713</a> from stealthmodesoft/faq</summary>
 
 Add faq section
 
@@ -4003,7 +4003,7 @@ Add faq section
 ## [v0.9.0](https://github.com/stealthmodesoft/gqlgen/compare/v0.8.3...v0.9.0) - 2019-05-15
 - <a href="https://github.com/stealthmodesoft/gqlgen/commit/ea4652d223c441dc77b31882781ce08488763d67"><tt>ea4652d2</tt></a> release v0.9.0
 
-<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/f3c8406d909bd3f7bce89897637648870f7b1295"><tt>f3c8406d</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/10">#710</a> from 99designs/slice-pointers</summary>
+<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/f3c8406d909bd3f7bce89897637648870f7b1295"><tt>f3c8406d</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/10">#710</a> from stealthmodesoft/slice-pointers</summary>
 
 Use pointers to structs inside slices
 
@@ -4013,7 +4013,7 @@ Use pointers to structs inside slices
 
 - <a href="https://github.com/stealthmodesoft/gqlgen/commit/315141d9bd2ab14169a88a50f19326c4483d17e3"><tt>315141d9</tt></a> Use pointers to structs inside slices
 
-<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/9a6a10abe7d927f2d3271acc9bff9058cd070bf9"><tt>9a6a10ab</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/06">#706</a> from 99designs/mapping-primitive</summary>
+<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/9a6a10abe7d927f2d3271acc9bff9058cd070bf9"><tt>9a6a10ab</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/06">#706</a> from stealthmodesoft/mapping-primitive</summary>
 
 Fix mapping object types onto go primitives
 
@@ -4023,13 +4023,13 @@ Fix mapping object types onto go primitives
 
 - <a href="https://github.com/stealthmodesoft/gqlgen/commit/b0cd95a19710fd92ab9e76422591ac9f0c5a6f31"><tt>b0cd95a1</tt></a> Test mapping object types onto go string
 
-<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/eaa61bb56c75a6fdb98ee7b53b81b70b519b35ba"><tt>eaa61bb5</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/07">#707</a> from 99designs/gomodules-performance</summary>
+<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/eaa61bb56c75a6fdb98ee7b53b81b70b519b35ba"><tt>eaa61bb5</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/07">#707</a> from stealthmodesoft/gomodules-performance</summary>
 
 make gqlgen generate 10x faster in some projects
 
 </details></dd></dl>
 
-<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/ab961ce000f72314346521009172e6391d107b69"><tt>ab961ce0</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/05">#705</a> from 99designs/fix-error-race</summary>
+<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/ab961ce000f72314346521009172e6391d107b69"><tt>ab961ce0</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/05">#705</a> from stealthmodesoft/fix-error-race</summary>
 
 Fix a data race when handling concurrent resolver errors
 
@@ -4041,7 +4041,7 @@ Fix a data race when handling concurrent resolver errors
 
 - <a href="https://github.com/stealthmodesoft/gqlgen/commit/962470dec347d728e236395c59844ae0acf22333"><tt>962470de</tt></a> Fix a data race when handling concurrent resolver errors
 
-<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/9ca43ba938f6c67a33986cddf650658fc406fe95"><tt>9ca43ba9</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/01">#701</a> from 99designs/modelgen-pointers</summary>
+<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/9ca43ba938f6c67a33986cddf650658fc406fe95"><tt>9ca43ba9</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/01">#701</a> from stealthmodesoft/modelgen-pointers</summary>
 
 Use pointers when embedding structs in generated structs
 
@@ -4057,13 +4057,13 @@ Fix typo
 
 - <a href="https://github.com/stealthmodesoft/gqlgen/commit/80ebe644b0286a466beea67f6a76c910b083b8fd"><tt>80ebe644</tt></a> Fix typo
 
-<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/0bd9080964817324cbb046a3833bdfc4674d22fb"><tt>0bd90809</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/00">#700</a> from 99designs/fix-interface-caseing</summary>
+<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/0bd9080964817324cbb046a3833bdfc4674d22fb"><tt>0bd90809</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/00">#700</a> from stealthmodesoft/fix-interface-caseing</summary>
 
 Fix interface casing
 
 </details></dd></dl>
 
-<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/5586ee2c0e610ad2f257d2bda577d97437bbb17e"><tt>5586ee2c</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/02">#702</a> from 99designs/drop-automatic-zeroisnull</summary>
+<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/5586ee2c0e610ad2f257d2bda577d97437bbb17e"><tt>5586ee2c</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/02">#702</a> from stealthmodesoft/drop-automatic-zeroisnull</summary>
 
 Drop automatic conversion of IsZero to null
 
@@ -4315,7 +4315,7 @@ doc: fix mistake on introspection doc page
 
 - <a href="https://github.com/stealthmodesoft/gqlgen/commit/93e72b589b09e7582f072d9e911decb2d897c971"><tt>93e72b58</tt></a> doc: fix error on introspection doc page
 
-<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/ef2e51ba3e4b6408c48f4e44e0b048947196719b"><tt>ef2e51ba</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/37">#637</a> from 99designs/fix-is-slice</summary>
+<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/ef2e51ba3e4b6408c48f4e44e0b048947196719b"><tt>ef2e51ba</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/37">#637</a> from stealthmodesoft/fix-is-slice</summary>
 
 Fix Mapping Custom Scalar to Slice
 
@@ -4359,7 +4359,7 @@ cases such as a scalar mapping to []byte
 ## [v0.8.2](https://github.com/stealthmodesoft/gqlgen/compare/v0.8.1...v0.8.2) - 2019-03-18
 - <a href="https://github.com/stealthmodesoft/gqlgen/commit/ee06517c25deb254fa6708609ee5fd3fb3fbdbf2"><tt>ee06517c</tt></a> release v0.8.2
 
-<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/8ac8a1f8142aaa0a4ce12d30c9680236efbffb03"><tt>8ac8a1f8</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/35">#635</a> from 99designs/fix-inject-builtin-scalars</summary>
+<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/8ac8a1f8142aaa0a4ce12d30c9680236efbffb03"><tt>8ac8a1f8</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/35">#635</a> from stealthmodesoft/fix-inject-builtin-scalars</summary>
 
 Only Inject Builtin Scalars if Defined in Schema
 
@@ -4371,7 +4371,7 @@ Only Inject Builtin Scalars if Defined in Schema
 
 - <a href="https://github.com/stealthmodesoft/gqlgen/commit/d567d5c8f737fc9870e4772e9e04e5e0dbe04e7a"><tt>d567d5c8</tt></a> Inject non-spec builtin values only if defined
 
-<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/3e39b57a98fac8d4db1a85e0b998bd83e29fb9c5"><tt>3e39b57a</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/34">#634</a> from 99designs/fallback-to-string</summary>
+<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/3e39b57a98fac8d4db1a85e0b998bd83e29fb9c5"><tt>3e39b57a</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/34">#634</a> from stealthmodesoft/fallback-to-string</summary>
 
 Use graphql.String for types wrapping a basic string
 
@@ -4379,7 +4379,7 @@ Use graphql.String for types wrapping a basic string
 
 - <a href="https://github.com/stealthmodesoft/gqlgen/commit/a2cce0d14984402fccd9e8abb9f286a80e7296fb"><tt>a2cce0d1</tt></a> Use graphql.String for types wrapping a basic string
 
-<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/fc05501b87c73faf116b1096490978254b4f2436"><tt>fc05501b</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/33">#633</a> from 99designs/fix-union-pointers</summary>
+<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/fc05501b87c73faf116b1096490978254b4f2436"><tt>fc05501b</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/33">#633</a> from stealthmodesoft/fix-union-pointers</summary>
 
 Fix Having Pointers to Union Types
 
@@ -4396,7 +4396,7 @@ to a Go stuct.
 
 </details></dd></dl>
 
-<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/5df0938f0dfa6418457a23b31c5bd1b3bc7e879d"><tt>5df0938f</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/28">#628</a> from 99designs/fix-ambient-imports</summary>
+<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/5df0938f0dfa6418457a23b31c5bd1b3bc7e879d"><tt>5df0938f</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/28">#628</a> from stealthmodesoft/fix-ambient-imports</summary>
 
 Move ambient imports into cmd package
 
@@ -4411,7 +4411,7 @@ This was changed in 0.8 but the ambient imports weren't moved.
 
 </details></dd></dl>
 
-<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/58744de96123b48aea4728f844b01694ff2b8ae9"><tt>58744de9</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/22">#622</a> from 99designs/handle-complexity-root-collisions</summary>
+<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/58744de96123b48aea4728f844b01694ff2b8ae9"><tt>58744de9</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/22">#622</a> from stealthmodesoft/handle-complexity-root-collisions</summary>
 
 Handle colliding fields in complexity root gracefully
 
@@ -4427,7 +4427,7 @@ Allow user to supply path to gqlerror
 
 - <a href="https://github.com/stealthmodesoft/gqlgen/commit/12cf01aa60fef7be26b6c78ac3139b407ed7a455"><tt>12cf01aa</tt></a> Allow user to supply path to gqlerror
 
-<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/932322b6da351176889e41102f032202d1b0778c"><tt>932322b6</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/19">#619</a> from 99designs/nil-slices</summary>
+<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/932322b6da351176889e41102f032202d1b0778c"><tt>932322b6</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/19">#619</a> from stealthmodesoft/nil-slices</summary>
 
 Support returning nulls from slices
 
@@ -4459,7 +4459,7 @@ Upgrade graphql-playground to 1.7.20
 
 </details></dd></dl>
 
-<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/163bfc76c47e6663a8514020db26f67f0786c8b9"><tt>163bfc76</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/12">#612</a> from 99designs/maps-changesets</summary>
+<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/163bfc76c47e6663a8514020db26f67f0786c8b9"><tt>163bfc76</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/12">#612</a> from stealthmodesoft/maps-changesets</summary>
 
 Maps as changesets
 
@@ -4473,7 +4473,7 @@ CSS didn't change but js did.
 
 </details></dd></dl>
 
-<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/8fb1fafdcf641f4520b726d209cf2eb685dd69f3"><tt>8fb1fafd</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/11">#611</a> from 99designs/gqlparser-1.1.2</summary>
+<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/8fb1fafdcf641f4520b726d209cf2eb685dd69f3"><tt>8fb1fafd</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/11">#611</a> from stealthmodesoft/gqlparser-1.1.2</summary>
 
 Bump gqlparser to 1.1.2
 
@@ -4495,7 +4495,7 @@ Allow configuring the complexity limit dynamically per request
 
 - <a href="https://github.com/stealthmodesoft/gqlgen/commit/dd2881455f20f37ec601791bf09e32db9e928790"><tt>dd288145</tt></a> Allow configuring the complexity limit dynamically per request
 
-<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/485ddf3051a289874577c8384a22d7e58b199e72"><tt>485ddf30</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/05">#605</a> from 99designs/fix-default-scalars</summary>
+<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/485ddf3051a289874577c8384a22d7e58b199e72"><tt>485ddf30</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/05">#605</a> from stealthmodesoft/fix-default-scalars</summary>
 
 Fix default scalars
 
@@ -4519,7 +4519,7 @@ Fix directives on args with custom type
 
 - <a href="https://github.com/stealthmodesoft/gqlgen/commit/30d235bc781c1976c08def2ca5283998f4786d76"><tt>30d235bc</tt></a> Fix default scalars
 
-<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/d7b5dc283de948282815a8addaa4ef36d8253358"><tt>d7b5dc28</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/91">#591</a> from 99designs/fix-577</summary>
+<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/d7b5dc283de948282815a8addaa4ef36d8253358"><tt>d7b5dc28</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/91">#591</a> from stealthmodesoft/fix-577</summary>
 
 Fix mixed case name handling in ToGo, ToGoPrivate
 
@@ -4543,7 +4543,7 @@ Load the playground sources from HTTPS by default
 
 </details></dd></dl>
 
-<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/8e66832f1f8fad88af08b05e0f5f0a36a7b4e0a4"><tt>8e66832f</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/89">#589</a> from 99designs/fix-autocasing-modelgen-bugs</summary>
+<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/8e66832f1f8fad88af08b05e0f5f0a36a7b4e0a4"><tt>8e66832f</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/89">#589</a> from stealthmodesoft/fix-autocasing-modelgen-bugs</summary>
 
 Fix autocasing modelgen bugs
 
@@ -4551,7 +4551,7 @@ Fix autocasing modelgen bugs
 
 - <a href="https://github.com/stealthmodesoft/gqlgen/commit/de3b7cb825c9676c720826472c7c54b0c0301ce0"><tt>de3b7cb8</tt></a> Fix autocasing modelgen bugs
 
-<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/8e00703ebe967db83bf5544e169a8b0cc5895866"><tt>8e00703e</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/88">#588</a> from 99designs/fix-default-scalar-implementation-regression</summary>
+<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/8e00703ebe967db83bf5544e169a8b0cc5895866"><tt>8e00703e</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/88">#588</a> from stealthmodesoft/fix-default-scalar-implementation-regression</summary>
 
 Fix default scalar implementation regression
 
@@ -4559,7 +4559,7 @@ Fix default scalar implementation regression
 
 - <a href="https://github.com/stealthmodesoft/gqlgen/commit/b27139ed5c290214d979e374a23689fc36eed78a"><tt>b27139ed</tt></a> Fix default scalar implementation regression
 
-<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/737a59a31d6663987127ff604f671d326e509337"><tt>737a59a3</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/79">#579</a> from 99designs/fix-camelcase</summary>
+<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/737a59a31d6663987127ff604f671d326e509337"><tt>737a59a3</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/79">#579</a> from stealthmodesoft/fix-camelcase</summary>
 
 Take care about commonInitialisms in ToGo
 
@@ -4571,7 +4571,7 @@ Take care about commonInitialisms in ToGo
 
 - <a href="https://github.com/stealthmodesoft/gqlgen/commit/eb4536743c4dc507df32da1fe7a581052f7c438c"><tt>eb453674</tt></a> address comment
 
-- <a href="https://github.com/stealthmodesoft/gqlgen/commit/dcd208d91603475f4cb3505e89a71aeb53d0c52f"><tt>dcd208d9</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/84">#584</a> from 99designs/fix-deprecated-directive
+- <a href="https://github.com/stealthmodesoft/gqlgen/commit/dcd208d91603475f4cb3505e89a71aeb53d0c52f"><tt>dcd208d9</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/84">#584</a> from stealthmodesoft/fix-deprecated-directive
 
 <dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/5ba8c8ead3ca891601215263b5969e4942c52a6b"><tt>5ba8c8ea</tt></a> Add builtin flag for build directives</summary>
 
@@ -4609,13 +4609,13 @@ Fixed typo in MD link ttps -> https
 ## [v0.8.0](https://github.com/stealthmodesoft/gqlgen/compare/v0.7.2...v0.8.0) - 2019-03-04
 - <a href="https://github.com/stealthmodesoft/gqlgen/commit/f24e79d00425f1bbf13fbc79f0230ff4b2037955"><tt>f24e79d0</tt></a> release v0.8.0
 
-<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/55df9b8d926d238ede66a29cd7b38513ab2bb2f7"><tt>55df9b8d</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/74">#574</a> from 99designs/next</summary>
+<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/55df9b8d926d238ede66a29cd7b38513ab2bb2f7"><tt>55df9b8d</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/74">#574</a> from stealthmodesoft/next</summary>
 
 v0.8.0
 
 </details></dd></dl>
 
-<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/aedcc68ada4d9c299e6a1c96c56059787a193403"><tt>aedcc68a</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/73">#573</a> from 99designs/plugin-docs</summary>
+<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/aedcc68ada4d9c299e6a1c96c56059787a193403"><tt>aedcc68a</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/73">#573</a> from stealthmodesoft/plugin-docs</summary>
 
 Very rough first pass at plugin docs
 
@@ -4623,7 +4623,7 @@ Very rough first pass at plugin docs
 
 - <a href="https://github.com/stealthmodesoft/gqlgen/commit/8f91cf56cf39de4f3845395f3564224452d9b95b"><tt>8f91cf56</tt></a> Very rough first pass at plugin docs
 
-<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/3d9ad75ebd191d578a5b8085f150be6c9e42b3d2"><tt>3d9ad75e</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/72">#572</a> from 99designs/handle-nonexistant-directories-when-genreating-packagenames</summary>
+<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/3d9ad75ebd191d578a5b8085f150be6c9e42b3d2"><tt>3d9ad75e</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/72">#572</a> from stealthmodesoft/handle-nonexistant-directories-when-genreating-packagenames</summary>
 
 Handle non-existant directories when generating default package names
 
@@ -4631,13 +4631,13 @@ Handle non-existant directories when generating default package names
 
 - <a href="https://github.com/stealthmodesoft/gqlgen/commit/08923334725c963ffcff948efe030881d658c38a"><tt>08923334</tt></a> Handle non-existant directories when generating default package names
 
-<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/2ef4b443a873c8be7ccabdbba39b941d71cd64d1"><tt>2ef4b443</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/71">#571</a> from 99designs/automatically-bind-to-int32-int64</summary>
+<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/2ef4b443a873c8be7ccabdbba39b941d71cd64d1"><tt>2ef4b443</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/71">#571</a> from stealthmodesoft/automatically-bind-to-int32-int64</summary>
 
 Automatically bind to int32 and int64
 
 </details></dd></dl>
 
-<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/2888e96c01bbcb4614f636bbc5dd9ecf4af45284"><tt>2888e96c</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/70">#570</a> from 99designs/vendor-packages-workaround</summary>
+<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/2888e96c01bbcb4614f636bbc5dd9ecf4af45284"><tt>2888e96c</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/70">#570</a> from stealthmodesoft/vendor-packages-workaround</summary>
 
 Workaround for using packages with vendored code
 
@@ -4645,7 +4645,7 @@ Workaround for using packages with vendored code
 
 - <a href="https://github.com/stealthmodesoft/gqlgen/commit/fb87dc3942e4179aa1eb8007f8f3d384fd4b9fca"><tt>fb87dc39</tt></a> Automatically bind to int32 and int64
 
-<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/f2d9c3f74f11947f4ae1e6fdaa12d2095ab30518"><tt>f2d9c3f7</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/69">#569</a> from 99designs/improve-introduction</summary>
+<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/f2d9c3f74f11947f4ae1e6fdaa12d2095ab30518"><tt>f2d9c3f7</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/69">#569</a> from stealthmodesoft/improve-introduction</summary>
 
 Introduction Improvements
 
@@ -4679,7 +4679,7 @@ Fix cli config getters
 
 - <a href="https://github.com/stealthmodesoft/gqlgen/commit/da12fd11020c4d2449f5abb2545ce28d4dde75dd"><tt>da12fd11</tt></a> Fix cli config getters
 
-<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/51266b8f7ab04827838098a328ef9fcd70b545a2"><tt>51266b8f</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/54">#554</a> from 99designs/fix-missing-recover</summary>
+<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/51266b8f7ab04827838098a328ef9fcd70b545a2"><tt>51266b8f</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/54">#554</a> from stealthmodesoft/fix-missing-recover</summary>
 
 Recover from panics in unlikly places
 
@@ -4687,7 +4687,7 @@ Recover from panics in unlikly places
 
 - <a href="https://github.com/stealthmodesoft/gqlgen/commit/67795c95b21a60fda303b35e509a447653bc8351"><tt>67795c95</tt></a> Recover from panics in unlikly places
 
-<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/56163b4584483d70ba5dd2cb5b968e63447c36e6"><tt>56163b45</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/53">#553</a> from 99designs/getting-started-0.8</summary>
+<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/56163b4584483d70ba5dd2cb5b968e63447c36e6"><tt>56163b45</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/53">#553</a> from stealthmodesoft/getting-started-0.8</summary>
 
 Update Getting Started for 0.8 and Go Modules
 
@@ -4705,13 +4705,13 @@ Update Getting Started for 0.8 and Go Modules
 
 - <a href="https://github.com/stealthmodesoft/gqlgen/commit/d261b3fbb107b328ef6ffcfdbbc0e0903b1c5767"><tt>d261b3fb</tt></a> Fix navigation font weights
 
-<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/327a1a34f92860957148a011ce8e043224cf8cc5"><tt>327a1a34</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/51">#551</a> from 99designs/improved-collect-fields-api</summary>
+<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/327a1a34f92860957148a011ce8e043224cf8cc5"><tt>327a1a34</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/51">#551</a> from stealthmodesoft/improved-collect-fields-api</summary>
 
 Improved Collect Fields API and Documentation
 
 </details></dd></dl>
 
-<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/6439f197d0d84d22b1abf3068bd7982bb3c98c22"><tt>6439f197</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/52">#552</a> from 99designs/always-return-struct-pointers</summary>
+<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/6439f197d0d84d22b1abf3068bd7982bb3c98c22"><tt>6439f197</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/52">#552</a> from stealthmodesoft/always-return-struct-pointers</summary>
 
 Always return *Thing from resolvers for structs
 
@@ -4721,7 +4721,7 @@ Always return *Thing from resolvers for structs
 
 - <a href="https://github.com/stealthmodesoft/gqlgen/commit/e61b3e0be1fc52d94f0bbc80f7c486bb9eeb4f40"><tt>e61b3e0b</tt></a> Add Field Collection docs
 
-<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/ef0223cfdf8a17e8dc5f83ef6a14e4f5a12ddd49"><tt>ef0223cf</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/41">#541</a> from 99designs/fix-underscore-only-fields</summary>
+<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/ef0223cfdf8a17e8dc5f83ef6a14e4f5a12ddd49"><tt>ef0223cf</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/41">#541</a> from stealthmodesoft/fix-underscore-only-fields</summary>
 
 Allow underscore only fields and naming collisions to be aliased explicitly
 
@@ -4741,7 +4741,7 @@ Add more validation checks on .yml config file
 
 </details></dd></dl>
 
-<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/647c62a555775a278f1df528a3e71d14ad39320f"><tt>647c62a5</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/50">#550</a> from 99designs/fix-unstable-marshaler-func</summary>
+<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/647c62a555775a278f1df528a3e71d14ad39320f"><tt>647c62a5</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/50">#550</a> from stealthmodesoft/fix-unstable-marshaler-func</summary>
 
 Fix unstable external marshaler funcs with same name as type
 
@@ -4789,13 +4789,13 @@ Fix typo in README
 
 - <a href="https://github.com/stealthmodesoft/gqlgen/commit/fcacf200a365c1ad4201d17c8243a7d598765922"><tt>fcacf200</tt></a> Merge remote-tracking branch 'origin/master' into HEAD
 
-<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/b9819b21789c0543161f77dd811a8b208ec17f0f"><tt>b9819b21</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/40">#540</a> from 99designs/check-is-zero</summary>
+<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/b9819b21789c0543161f77dd811a8b208ec17f0f"><tt>b9819b21</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/40">#540</a> from stealthmodesoft/check-is-zero</summary>
 
 Automatically convert IsZero to null
 
 </details></dd></dl>
 
-<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/03a655dc9e9d7a1db9271a385b3c3b0854fceec7"><tt>03a655dc</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/26">#526</a> from 99designs/union-fragment-bug</summary>
+<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/03a655dc9e9d7a1db9271a385b3c3b0854fceec7"><tt>03a655dc</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/26">#526</a> from stealthmodesoft/union-fragment-bug</summary>
 
 Union Fragment Bug Fix
 
@@ -4814,7 +4814,7 @@ conditional when reading through the first time.
 
 - <a href="https://github.com/stealthmodesoft/gqlgen/commit/306da15f43db5b796bf7a77e7897e5f8772a7fa9"><tt>306da15f</tt></a> Automatically convert IsZero to null
 
-- <a href="https://github.com/stealthmodesoft/gqlgen/commit/f81c61d3f8fa25b6cc1200f148dfefcd266810f7"><tt>f81c61d3</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/39">#539</a> from 99designs/test-nullable-interface-pointers (closes <a href="https://github.com/stealthmodesoft/gqlgen/issues/484"> #484</a>)
+- <a href="https://github.com/stealthmodesoft/gqlgen/commit/f81c61d3f8fa25b6cc1200f148dfefcd266810f7"><tt>f81c61d3</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/39">#539</a> from stealthmodesoft/test-nullable-interface-pointers (closes <a href="https://github.com/stealthmodesoft/gqlgen/issues/484"> #484</a>)
 
 <dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/f5200c80a42e5442c34dd97d4d680c240d5b4c46"><tt>f5200c80</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/98">#498</a> from vilterp/playground-content-type</summary>
 
@@ -4824,11 +4824,11 @@ add `content-type: text/html` header to playground handler
 
 - <a href="https://github.com/stealthmodesoft/gqlgen/commit/de148d133667b3cf0574b2054b8d5579f5c5db1a"><tt>de148d13</tt></a> Test for <a href="https://github.com/stealthmodesoft/gqlgen/pull/84">#484</a>
 
-- <a href="https://github.com/stealthmodesoft/gqlgen/commit/9a48a007bd7ee36752a0879c075bb3470d243ebd"><tt>9a48a007</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/38">#538</a> from 99designs/test-input-marshalling (closes <a href="https://github.com/stealthmodesoft/gqlgen/issues/487"> #487</a>)
+- <a href="https://github.com/stealthmodesoft/gqlgen/commit/9a48a007bd7ee36752a0879c075bb3470d243ebd"><tt>9a48a007</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/38">#538</a> from stealthmodesoft/test-input-marshalling (closes <a href="https://github.com/stealthmodesoft/gqlgen/issues/487"> #487</a>)
 
 - <a href="https://github.com/stealthmodesoft/gqlgen/commit/7a82ab43a060b334d19c51a353a8924857dd39bb"><tt>7a82ab43</tt></a> Test for <a href="https://github.com/stealthmodesoft/gqlgen/pull/87">#487</a>
 
-<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/48a7e07f4fd28b8bca8c270ee824c5f99436cfaa"><tt>48a7e07f</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/37">#537</a> from 99designs/stub-generation</summary>
+<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/48a7e07f4fd28b8bca8c270ee824c5f99436cfaa"><tt>48a7e07f</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/37">#537</a> from stealthmodesoft/stub-generation</summary>
 
 Stub generation
 
@@ -4838,7 +4838,7 @@ Stub generation
 
 - <a href="https://github.com/stealthmodesoft/gqlgen/commit/c5e3dd44959d59bef6830cbe2652498e49b53089"><tt>c5e3dd44</tt></a> add stub generation plugin
 
-<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/43db679a9d39ed4939b2c06aeed5b6ee95b961cd"><tt>43db679a</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/34">#534</a> from 99designs/multiple-bind-types</summary>
+<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/43db679a9d39ed4939b2c06aeed5b6ee95b961cd"><tt>43db679a</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/34">#534</a> from stealthmodesoft/multiple-bind-types</summary>
 
 Multiple bind types
 
@@ -4868,7 +4868,7 @@ Fix typo in README in selection example directory to point to the selection exam
 
 - <a href="https://github.com/stealthmodesoft/gqlgen/commit/cf94d3ba6a4a7cd513454a8cb4b250f1db68ee53"><tt>cf94d3ba</tt></a> Removed named types
 
-<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/82ded32137fcddf9b295bb283d118183bba983cb"><tt>82ded321</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/32">#532</a> from 99designs/fix-missing-json-content-type</summary>
+<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/82ded32137fcddf9b295bb283d118183bba983cb"><tt>82ded321</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/32">#532</a> from stealthmodesoft/fix-missing-json-content-type</summary>
 
 Fix set header to JSON earlier in GraphQL response
 
@@ -4898,7 +4898,7 @@ Fixes https://github.com/stealthmodesoft/gqlgen/issues/519
 
 - <a href="https://github.com/stealthmodesoft/gqlgen/commit/60473555e7668de29c188448558123d9dc8edb3b"><tt>60473555</tt></a> Shared arg unmarshaling logic
 
-<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/a7c8abe6d89935c129e982fc91e0afb6db07dc9f"><tt>a7c8abe6</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/29">#529</a> from 99designs/websocket-keepalive</summary>
+<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/a7c8abe6d89935c129e982fc91e0afb6db07dc9f"><tt>a7c8abe6</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/29">#529</a> from stealthmodesoft/websocket-keepalive</summary>
 
 Add websocket keepalive support
 
@@ -4920,13 +4920,13 @@ duration of inactivity.
 
 - <a href="https://github.com/stealthmodesoft/gqlgen/commit/162afad73b653d9456d21ec38d00c3476ab2dde4"><tt>162afad7</tt></a> enums dont exist in runtime
 
-<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/d0b6485b23f259588e9ecd34e23924c741d9c6f2"><tt>d0b6485b</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/25">#525</a> from 99designs/stop-grc-panic</summary>
+<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/d0b6485b23f259588e9ecd34e23924c741d9c6f2"><tt>d0b6485b</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/25">#525</a> from stealthmodesoft/stop-grc-panic</summary>
 
 Stop GetResolverContext from panicking when missing
 
 </details></dd></dl>
 
-<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/78cfff48aa5895a9eefe35615aae3b7b33ed11b1"><tt>78cfff48</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/28">#528</a> from 99designs/fix-todo-directive</summary>
+<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/78cfff48aa5895a9eefe35615aae3b7b33ed11b1"><tt>78cfff48</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/28">#528</a> from stealthmodesoft/fix-todo-directive</summary>
 
 Fix Todo Example Directive
 
@@ -4951,7 +4951,7 @@ pointers to structs. Can just be removed.
 
 - <a href="https://github.com/stealthmodesoft/gqlgen/commit/1bc51010eb895d675573cae4243207ea3aa6477e"><tt>1bc51010</tt></a> Everything is a plugin
 
-<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/055fb4bc9a6aae2ca92c50deb011b089d6fea5d0"><tt>055fb4bc</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/14">#514</a> from 99designs/gomod</summary>
+<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/055fb4bc9a6aae2ca92c50deb011b089d6fea5d0"><tt>055fb4bc</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/14">#514</a> from stealthmodesoft/gomod</summary>
 
 Add support for go modules
 
@@ -4963,7 +4963,7 @@ Add support for go modules
 
 - <a href="https://github.com/stealthmodesoft/gqlgen/commit/251e8514d637b99bb0e52030dc25483f5e74085d"><tt>251e8514</tt></a> Add support for go modules
 
-<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/62175eab825058eadd79eddf40978db8a194a40b"><tt>62175eab</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/02">#502</a> from 99designs/model-plugin</summary>
+<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/62175eab825058eadd79eddf40978db8a194a40b"><tt>62175eab</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/02">#502</a> from stealthmodesoft/model-plugin</summary>
 
 Model plugin
 
@@ -4995,7 +4995,7 @@ Small fixes
 
 - <a href="https://github.com/stealthmodesoft/gqlgen/commit/940db1f962c24864fea7e41362f383e163bedd1a"><tt>940db1f9</tt></a> Fix cacheSize usage in handler
 
-<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/fba9a37816b6ff55f80ded3b941a7e85390decb3"><tt>fba9a378</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/92">#492</a> from 99designs/unified-merge-pass</summary>
+<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/fba9a37816b6ff55f80ded3b941a7e85390decb3"><tt>fba9a378</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/92">#492</a> from stealthmodesoft/unified-merge-pass</summary>
 
 Unified merge pass
 
@@ -5009,7 +5009,7 @@ Unified merge pass
 
 - <a href="https://github.com/stealthmodesoft/gqlgen/commit/87b37b0c30b98f311d18db56c404679bf40b68e5"><tt>87b37b0c</tt></a> Replace string based type comparisons with recursive types.Type check
 
-<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/82b1917d512e24a1160e0f65f8334257a8abc2eb"><tt>82b1917d</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/90">#490</a> from 99designs/bind-directly-to-types</summary>
+<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/82b1917d512e24a1160e0f65f8334257a8abc2eb"><tt>82b1917d</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/90">#490</a> from stealthmodesoft/bind-directly-to-types</summary>
 
 Bind directly to AST types, instead of copying out random bits
 
@@ -5033,7 +5033,7 @@ Bind directly to AST types, instead of copying out random bits
 
 - <a href="https://github.com/stealthmodesoft/gqlgen/commit/eb1011617b052446b44239ec2fb9b6f6ee9cfdde"><tt>eb101161</tt></a> Remove aliased types, to be replaced by allowing multiple backing types
 
-<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/e79252b0ea6efabfd9131fab703089ed23ff2d38"><tt>e79252b0</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/88">#488</a> from 99designs/refactor-config</summary>
+<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/e79252b0ea6efabfd9131fab703089ed23ff2d38"><tt>e79252b0</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/88">#488</a> from stealthmodesoft/refactor-config</summary>
 
 Refactor config
 
@@ -5059,7 +5059,7 @@ add list of enums
 
 - <a href="https://github.com/stealthmodesoft/gqlgen/commit/f87ea6e85f867d169760c1bb2a73842f82194363"><tt>f87ea6e8</tt></a> Merge remote-tracking branch 'origin/master' into HEAD
 
-<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/473f4f0c566042e93d7ae9ae3cee49697386a766"><tt>473f4f0c</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/65">#465</a> from 99designs/performance-improvments</summary>
+<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/473f4f0c566042e93d7ae9ae3cee49697386a766"><tt>473f4f0c</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/65">#465</a> from stealthmodesoft/performance-improvments</summary>
 
 Performance improvments
 
@@ -5146,7 +5146,7 @@ ok      github.com/stealthmodesoft/gqlgen/_examples/starwars    9.901s
 ## [v0.7.2](https://github.com/stealthmodesoft/gqlgen/compare/v0.7.1...v0.7.2) - 2019-02-05
 - <a href="https://github.com/stealthmodesoft/gqlgen/commit/da1e07f5876c0fb79cbad19006f7135be08590d6"><tt>da1e07f5</tt></a> release v0.7.2
 
-<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/8c0562c17743ea26cc316e9ff4cd509054b35287"><tt>8c0562c1</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/30">#530</a> from 99designs/websocket-keepalive-master</summary>
+<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/8c0562c17743ea26cc316e9ff4cd509054b35287"><tt>8c0562c1</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/30">#530</a> from stealthmodesoft/websocket-keepalive-master</summary>
 
 Add websocket keepalive support
 
@@ -5200,7 +5200,7 @@ modify `graph/graph.go` to `resolver.go`
 <!-- end of If NoteGroups -->
 <a name="v0.7.1"></a>
 ## [v0.7.1](https://github.com/stealthmodesoft/gqlgen/compare/v0.7.0...v0.7.1) - 2018-11-29
-<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/3a7f37c7e22a8fedce430c4d340ad5c1351198f4"><tt>3a7f37c7</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/55">#455</a> from 99designs/fix-deprecated-fields</summary>
+<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/3a7f37c7e22a8fedce430c4d340ad5c1351198f4"><tt>3a7f37c7</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/55">#455</a> from stealthmodesoft/fix-deprecated-fields</summary>
 
 Fix deprecated fields
 
@@ -5218,13 +5218,13 @@ Fix deprecated fields
 ## [v0.7.0](https://github.com/stealthmodesoft/gqlgen/compare/v0.6.0...v0.7.0) - 2018-11-28
 - <a href="https://github.com/stealthmodesoft/gqlgen/commit/a81fe5037b2492cdd312a7d8c875677da4b1f6c9"><tt>a81fe503</tt></a> release v0.7.0
 
-<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/4bfc82d782409044f07e002c926f867fdb14ac8d"><tt>4bfc82d7</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/53">#453</a> from 99designs/deprecate-binary</summary>
+<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/4bfc82d782409044f07e002c926f867fdb14ac8d"><tt>4bfc82d7</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/53">#453</a> from stealthmodesoft/deprecate-binary</summary>
 
 Add Deprecation Warning to Binary
 
 </details></dd></dl>
 
-<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/8dd29b8548320a3a01a8b7645bc79d5b216edd62"><tt>8dd29b85</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/54">#454</a> from 99designs/update-gqlparser</summary>
+<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/8dd29b8548320a3a01a8b7645bc79d5b216edd62"><tt>8dd29b85</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/54">#454</a> from stealthmodesoft/update-gqlparser</summary>
 
 Update gqlparser to latest
 
@@ -5232,7 +5232,7 @@ Update gqlparser to latest
 
 - <a href="https://github.com/stealthmodesoft/gqlgen/commit/747c3f9c41903a77781f50d919335d4b29a215b8"><tt>747c3f9c</tt></a> Update gqlparser to latest
 
-<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/d6d9885fac16079f92aeda0f6571cc0e7697b0ac"><tt>d6d9885f</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/16">#416</a> from 99designs/improved-getting-started</summary>
+<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/d6d9885fac16079f92aeda0f6571cc0e7697b0ac"><tt>d6d9885f</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/16">#416</a> from stealthmodesoft/improved-getting-started</summary>
 
 Improve Getting Started Documentation — No Binary Approach
 
@@ -5242,7 +5242,7 @@ Improve Getting Started Documentation — No Binary Approach
 
 - <a href="https://github.com/stealthmodesoft/gqlgen/commit/878f3945f1ec84aa26400f67a714fd8cc7db40e3"><tt>878f3945</tt></a> Minor fixes to getting started code examples
 
-<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/6a02657c5a257173034efe93fa8cecd49da7d990"><tt>6a02657c</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/47">#447</a> from 99designs/disable-introspection</summary>
+<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/6a02657c5a257173034efe93fa8cecd49da7d990"><tt>6a02657c</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/47">#447</a> from stealthmodesoft/disable-introspection</summary>
 
 Add config option to disable introspection
 
@@ -5272,13 +5272,13 @@ Regenerate
 
 </details></dd></dl>
 
-<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/e4bad0e6bd11386d8436e1c268a02ed875b52ef5"><tt>e4bad0e6</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/49">#449</a> from 99designs/increase-float-precision</summary>
+<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/e4bad0e6bd11386d8436e1c268a02ed875b52ef5"><tt>e4bad0e6</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/49">#449</a> from stealthmodesoft/increase-float-precision</summary>
 
 Increase float precision
 
 </details></dd></dl>
 
-<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/c5589792b0f69c28a536a13c12dbf2a8f5e11b01"><tt>c5589792</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/50">#450</a> from 99designs/import-refactor</summary>
+<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/c5589792b0f69c28a536a13c12dbf2a8f5e11b01"><tt>c5589792</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/50">#450</a> from stealthmodesoft/import-refactor</summary>
 
 Refactor import handling
 
@@ -5310,7 +5310,7 @@ Fix small typo
 
 - <a href="https://github.com/stealthmodesoft/gqlgen/commit/c114346d88dbe979b7e5e7c09eacef2bba0f7500"><tt>c114346d</tt></a> Decouple loader creation from schema
 
-<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/9d636e780e5b1aa3a1290b41e590d207764848a5"><tt>9d636e78</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/48">#448</a> from 99designs/update-gqlparser</summary>
+<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/9d636e780e5b1aa3a1290b41e590d207764848a5"><tt>9d636e78</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/48">#448</a> from stealthmodesoft/update-gqlparser</summary>
 
 Update to latest gqlparser
 
@@ -5320,13 +5320,13 @@ Update to latest gqlparser
 
 - <a href="https://github.com/stealthmodesoft/gqlgen/commit/b0acd078ac03f165a4d48a18e8e1743086e80270"><tt>b0acd078</tt></a> Add config option to disable introspection
 
-<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/f9c880b6ee3a4423320468c1304237af7ee4e8b6"><tt>f9c880b6</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/46">#446</a> from 99designs/fix-flakey-test</summary>
+<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/f9c880b6ee3a4423320468c1304237af7ee4e8b6"><tt>f9c880b6</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/46">#446</a> from stealthmodesoft/fix-flakey-test</summary>
 
 Fix flakey goroutine test
 
 </details></dd></dl>
 
-<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/5461e967f847df9d8c51d76f193c69b31882e89f"><tt>5461e967</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/45">#445</a> from 99designs/remove-graphqlgen</summary>
+<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/5461e967f847df9d8c51d76f193c69b31882e89f"><tt>5461e967</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/45">#445</a> from stealthmodesoft/remove-graphqlgen</summary>
 
 Remove graphqlgen link
 
@@ -5394,7 +5394,7 @@ Right now code generated with latest master fails since there are usages of Trac
 
 - <a href="https://github.com/stealthmodesoft/gqlgen/commit/497551202238b0befd67d69b1da547bfff660948"><tt>49755120</tt></a> accept an optional ctx parameter on model methods
 
-<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/02a1935255fadced7f122dff7f2a9f54546c9d61"><tt>02a19352</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/29">#429</a> from 99designs/refactor-gofmt</summary>
+<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/02a1935255fadced7f122dff7f2a9f54546c9d61"><tt>02a19352</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/29">#429</a> from stealthmodesoft/refactor-gofmt</summary>
 
 apply go fmt ./...
 
@@ -5412,7 +5412,7 @@ Fix docs typo
 
 - <a href="https://github.com/stealthmodesoft/gqlgen/commit/cac61bb2035545137ac96c9d0ac102b71f2f3169"><tt>cac61bb2</tt></a> Fix docs typo
 
-<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/9f4afe3a6eb09e9ba12fbf5591ce3c0f06ad48be"><tt>9f4afe3a</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/25">#425</a> from 99designs/render</summary>
+<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/9f4afe3a6eb09e9ba12fbf5591ce3c0f06ad48be"><tt>9f4afe3a</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/25">#425</a> from stealthmodesoft/render</summary>
 
 Switch to hosting docs on render.com
 
@@ -5426,7 +5426,7 @@ switched the DNS records and updated the docs.
 
 </details></dd></dl>
 
-<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/981fd10a677716bd3e5b803465e2084e4fac3723"><tt>981fd10a</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/19">#419</a> from 99designs/fix-capture-ctx</summary>
+<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/981fd10a677716bd3e5b803465e2084e4fac3723"><tt>981fd10a</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/19">#419</a> from stealthmodesoft/fix-capture-ctx</summary>
 
 fix unexpected ctx variable capture on Tracing
 
@@ -5442,7 +5442,7 @@ fix unexpected ctx variable capture on Tracing
 
 - <a href="https://github.com/stealthmodesoft/gqlgen/commit/5c28d0116ee17a921ab891f06e555fda7cf7ca61"><tt>5c28d011</tt></a> fix unexpected ctx variable capture on Tracing
 
-<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/4bda3bc1291bdc0bc44e3057b5229d987eeecde2"><tt>4bda3bc1</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/11">#411</a> from 99designs/feat-geterrors</summary>
+<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/4bda3bc1291bdc0bc44e3057b5229d987eeecde2"><tt>4bda3bc1</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/11">#411</a> from stealthmodesoft/feat-geterrors</summary>
 
 add GetErrors to RequestContext
 
@@ -5450,7 +5450,7 @@ add GetErrors to RequestContext
 
 - <a href="https://github.com/stealthmodesoft/gqlgen/commit/a4eaa400c2cdfd0aa6fd4471a5899a93deb460f4"><tt>a4eaa400</tt></a> add tests for RequestContext#GetErrors
 
-<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/53f33f7722464e3063ecd15f053dfe3d79928dff"><tt>53f33f77</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/10">#410</a> from 99designs/move-tracing-to-contrib</summary>
+<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/53f33f7722464e3063ecd15f053dfe3d79928dff"><tt>53f33f77</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/10">#410</a> from stealthmodesoft/move-tracing-to-contrib</summary>
 
 Move tracing to contrib
 
@@ -5460,13 +5460,13 @@ Move tracing to contrib
 
 - <a href="https://github.com/stealthmodesoft/gqlgen/commit/f0dbce5a30b444ece286db2b7bac21dca01de174"><tt>f0dbce5a</tt></a> Move tracing to contrib
 
-<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/a3a92775eee4365784bcf35a5cb550027c680fd7"><tt>a3a92775</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/09">#409</a> from 99designs/graphql-playground-1.7.8</summary>
+<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/a3a92775eee4365784bcf35a5cb550027c680fd7"><tt>a3a92775</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/09">#409</a> from stealthmodesoft/graphql-playground-1.7.8</summary>
 
 Bump to the latest version of graphql-playground
 
 </details></dd></dl>
 
-<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/d2648580b441915b0a57b37b70b0e136bc20ea61"><tt>d2648580</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/02">#402</a> from 99designs/feat-opencensus</summary>
+<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/d2648580b441915b0a57b37b70b0e136bc20ea61"><tt>d2648580</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/02">#402</a> from stealthmodesoft/feat-opencensus</summary>
 
 add Tracer for OpenCensus
 
@@ -5482,7 +5482,7 @@ add Tracer for OpenCensus
 
 - <a href="https://github.com/stealthmodesoft/gqlgen/commit/4e7e6a1c7167e938e611dcaffa9c25b34e4ecc02"><tt>4e7e6a1c</tt></a> Merge branch 'master' into feat-opencensus
 
-<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/926ad17adfe84c26db5f4882c289941fe654af31"><tt>926ad17a</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/03">#403</a> from 99designs/feat-complexity</summary>
+<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/926ad17adfe84c26db5f4882c289941fe654af31"><tt>926ad17a</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/03">#403</a> from stealthmodesoft/feat-complexity</summary>
 
 copy complexity to RequestContext
 
@@ -5494,7 +5494,7 @@ copy complexity to RequestContext
 
 - <a href="https://github.com/stealthmodesoft/gqlgen/commit/c9368904b5cab04655a1ce2666346c0070f37ed0"><tt>c9368904</tt></a> Merge branch 'master' into feat-opencensus
 
-<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/b26ee6b4ea235d699f34eee09cd569d814a4bafc"><tt>b26ee6b4</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/04">#404</a> from 99designs/feat-apollo-tracing</summary>
+<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/b26ee6b4ea235d699f34eee09cd569d814a4bafc"><tt>b26ee6b4</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/04">#404</a> from stealthmodesoft/feat-apollo-tracing</summary>
 
 add apollo-tracing support
 
@@ -5520,7 +5520,7 @@ add apollo-tracing support
 
 - <a href="https://github.com/stealthmodesoft/gqlgen/commit/ececa23c60cafd25454d0c2d45f89f6e0549b8f4"><tt>ececa23c</tt></a> add Tracer for OpenCensus
 
-<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/0d5c65b6dc1c80d7809b862fd0b9ad3247926b0f"><tt>0d5c65b6</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/00">#400</a> from 99designs/fix-ci</summary>
+<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/0d5c65b6dc1c80d7809b862fd0b9ad3247926b0f"><tt>0d5c65b6</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/00">#400</a> from stealthmodesoft/fix-ci</summary>
 
 fix Circle CI test
 
@@ -5532,19 +5532,19 @@ fix Circle CI test
 
 - <a href="https://github.com/stealthmodesoft/gqlgen/commit/f70cedc2bac7e4582e9b50d8b34cb49d41dcc8d2"><tt>f70cedc2</tt></a> fix Circle CI test
 
-<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/1b17b5a2489094911e701a299aedee3d1d1a2319"><tt>1b17b5a2</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/92">#392</a> from 99designs/feat-tracer</summary>
+<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/1b17b5a2489094911e701a299aedee3d1d1a2319"><tt>1b17b5a2</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/92">#392</a> from stealthmodesoft/feat-tracer</summary>
 
 Add Tracer layer
 
 </details></dd></dl>
 
-<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/184e48cbd3c1391a2dd1434b17dc0bcceaf41661"><tt>184e48cb</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/96">#396</a> from 99designs/remove-ci-exclusion</summary>
+<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/184e48cbd3c1391a2dd1434b17dc0bcceaf41661"><tt>184e48cb</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/96">#396</a> from stealthmodesoft/remove-ci-exclusion</summary>
 
 Run generate ./... and test ./... in circle
 
 </details></dd></dl>
 
-<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/fd5d9ecae750465e74475112f6af0496404db87b"><tt>fd5d9eca</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/95">#395</a> from 99designs/feat-extension-example</summary>
+<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/fd5d9ecae750465e74475112f6af0496404db87b"><tt>fd5d9eca</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/95">#395</a> from stealthmodesoft/feat-extension-example</summary>
 
 add Type System Extension syntax example
 
@@ -5588,7 +5588,7 @@ This reverts commit 583f98047f5d1b6604d87e7b8d6f8fd38082d459.
 
 - <a href="https://github.com/stealthmodesoft/gqlgen/commit/ab4752c28debbe543601e16dc7861b7973407b5c"><tt>ab4752c2</tt></a> Update README.md
 
-<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/3447dd2d8b361c532d38688474d04315788edec1"><tt>3447dd2d</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/89">#389</a> from 99designs/multiple-schemas</summary>
+<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/3447dd2d8b361c532d38688474d04315788edec1"><tt>3447dd2d</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/89">#389</a> from stealthmodesoft/multiple-schemas</summary>
 
 Support multiple schemas
 
@@ -5622,7 +5622,7 @@ Underscore on field name finder
 ## [v0.6.0](https://github.com/stealthmodesoft/gqlgen/compare/v0.5.1...v0.6.0) - 2018-10-03
 - <a href="https://github.com/stealthmodesoft/gqlgen/commit/6f486bde038887adf67c3e3766624ef111ea95cf"><tt>6f486bde</tt></a> release v0.6.0
 
-<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/7833d0cbf3fd7fb82ddadf8c19a9284554f48250"><tt>7833d0cb</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/65">#365</a> from 99designs/dont-guess-imports</summary>
+<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/7833d0cbf3fd7fb82ddadf8c19a9284554f48250"><tt>7833d0cb</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/65">#365</a> from stealthmodesoft/dont-guess-imports</summary>
 
 Don't let goimports guess import paths
 
@@ -5630,7 +5630,7 @@ Don't let goimports guess import paths
 
 - <a href="https://github.com/stealthmodesoft/gqlgen/commit/732be3959b402bbd3b864c5f40f475640f1334c5"><tt>732be395</tt></a> Don't let goimports guess import paths
 
-<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/926eb9d814747bf3726313d397a31cd7dbddddd1"><tt>926eb9d8</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/64">#364</a> from 99designs/query-cache-test</summary>
+<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/926eb9d814747bf3726313d397a31cd7dbddddd1"><tt>926eb9d8</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/64">#364</a> from stealthmodesoft/query-cache-test</summary>
 
 Add a stress test on query cache
 
@@ -5638,7 +5638,7 @@ Add a stress test on query cache
 
 - <a href="https://github.com/stealthmodesoft/gqlgen/commit/bab70df5bf66675b16bf1945ce902658a4fdaed2"><tt>bab70df5</tt></a> Add a stress test on query cache
 
-<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/8448176179aa4492d6cb2962b6155bdeaae2774a"><tt>84481761</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/62">#362</a> from 99designs/fix-error-docs</summary>
+<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/8448176179aa4492d6cb2962b6155bdeaae2774a"><tt>84481761</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/62">#362</a> from stealthmodesoft/fix-error-docs</summary>
 
 fix error docs
 
@@ -5646,7 +5646,7 @@ fix error docs
 
 - <a href="https://github.com/stealthmodesoft/gqlgen/commit/23b58f6d5c03e69e05eb0d862be9286912a70151"><tt>23b58f6d</tt></a> fix error docs
 
-<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/8f0ef777fbb502ed453fa64861a8a0ca59fcacef"><tt>8f0ef777</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/61">#361</a> from 99designs/revert-360-revert-335-typed-interfaces</summary>
+<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/8f0ef777fbb502ed453fa64861a8a0ca59fcacef"><tt>8f0ef777</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/61">#361</a> from stealthmodesoft/revert-360-revert-335-typed-interfaces</summary>
 
 Revert "Revert "Generate typed interfaces for gql interfaces & unions""
 
@@ -5654,13 +5654,13 @@ Revert "Revert "Generate typed interfaces for gql interfaces & unions""
 
 - <a href="https://github.com/stealthmodesoft/gqlgen/commit/77257d1e593f35e6b639b3120b8ee6ba4dc7d4a5"><tt>77257d1e</tt></a> Revert "Revert "Generate typed interfaces for gql interfaces & unions""
 
-<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/1cae19bb114a3bee95ebac0e2e0e47ecdb59ec46"><tt>1cae19bb</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/59">#359</a> from 99designs/fix-null-arg-error</summary>
+<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/1cae19bb114a3bee95ebac0e2e0e47ecdb59ec46"><tt>1cae19bb</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/59">#359</a> from stealthmodesoft/fix-null-arg-error</summary>
 
 Fix Issue With Argument Pointer Type
 
 </details></dd></dl>
 
-<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/ee862717e87b39a46d01efc031f272ac26fd7b0b"><tt>ee862717</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/60">#360</a> from 99designs/revert-335-typed-interfaces</summary>
+<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/ee862717e87b39a46d01efc031f272ac26fd7b0b"><tt>ee862717</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/60">#360</a> from stealthmodesoft/revert-335-typed-interfaces</summary>
 
 Revert "Generate typed interfaces for gql interfaces & unions"
 
@@ -5668,7 +5668,7 @@ Revert "Generate typed interfaces for gql interfaces & unions"
 
 - <a href="https://github.com/stealthmodesoft/gqlgen/commit/02658647f2de7ad601c8eee43417d322b4060ccc"><tt>02658647</tt></a> Revert "Generate typed interfaces for gql interfaces & unions"
 
-<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/bc35d730cf4a22df34faafe066c77f891b750b9d"><tt>bc35d730</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/35">#335</a> from 99designs/typed-interfaces</summary>
+<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/bc35d730cf4a22df34faafe066c77f891b750b9d"><tt>bc35d730</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/35">#335</a> from stealthmodesoft/typed-interfaces</summary>
 
 Generate typed interfaces for gql interfaces & unions
 
@@ -5689,7 +5689,7 @@ but has a default, then null is still a valid value to send through.
 
 - <a href="https://github.com/stealthmodesoft/gqlgen/commit/0c399270a5c29e617d0cfc147d1809325ad8b8cc"><tt>0c399270</tt></a> Add test case
 
-<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/b836a976a12a3ea70b0e5b1767b6aceefb8a9fa6"><tt>b836a976</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/58">#358</a> from 99designs/fix-embedded-pointer</summary>
+<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/b836a976a12a3ea70b0e5b1767b6aceefb8a9fa6"><tt>b836a976</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/58">#358</a> from stealthmodesoft/fix-embedded-pointer</summary>
 
 Fix Embedded Pointer
 
@@ -5699,7 +5699,7 @@ Fix Embedded Pointer
 
 - <a href="https://github.com/stealthmodesoft/gqlgen/commit/b8af0c811747c48190126e2d2b4006e718362756"><tt>b8af0c81</tt></a> Use types.Implements to check if an interface implementor accepts value recievers
 
-<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/2ab05daf9c7864073fcbf8eeb03328223dc66df2"><tt>2ab05daf</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/53">#353</a> from 99designs/resolver-ctx-parenting</summary>
+<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/2ab05daf9c7864073fcbf8eeb03328223dc66df2"><tt>2ab05daf</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/53">#353</a> from stealthmodesoft/resolver-ctx-parenting</summary>
 
 Parent middleware generated contexts
 
@@ -5736,7 +5736,7 @@ Added parsing of the websocket init message payload
 
 </details></dd></dl>
 
-<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/2bd1cc2e669c685d41cacf82c8b730c04c44fef5"><tt>2bd1cc2e</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/34">#334</a> from 99designs/support-response-extensions</summary>
+<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/2bd1cc2e669c685d41cacf82c8b730c04c44fef5"><tt>2bd1cc2e</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/34">#334</a> from stealthmodesoft/support-response-extensions</summary>
 
 Support Extensions in Response
 
@@ -5758,7 +5758,7 @@ Support Extensions in Response
 
 - <a href="https://github.com/stealthmodesoft/gqlgen/commit/bfb48f2f833c6ab7f2981035b61efdf773dcddba"><tt>bfb48f2f</tt></a> Update README.md
 
-<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/869215a7e69f227f4869f901d319267d1061289d"><tt>869215a7</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/39">#339</a> from 99designs/fix-subscription-goroutine-leak</summary>
+<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/869215a7e69f227f4869f901d319267d1061289d"><tt>869215a7</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/39">#339</a> from stealthmodesoft/fix-subscription-goroutine-leak</summary>
 
 Fix gouroutine leak when using subscriptions
 
@@ -5831,7 +5831,7 @@ Use built-in less than operator instead of strings.Compare
 ## [v0.5.0](https://github.com/stealthmodesoft/gqlgen/compare/v0.4.4...v0.5.0) - 2018-08-31
 - <a href="https://github.com/stealthmodesoft/gqlgen/commit/5bc4665fab378aa7fe6b81bef968ed608aad1477"><tt>5bc4665f</tt></a> release v0.5.0
 
-<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/b48c6b92dcdfc7a797c34250478a2b1d1dc486c8"><tt>b48c6b92</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/26">#326</a> from 99designs/version</summary>
+<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/b48c6b92dcdfc7a797c34250478a2b1d1dc486c8"><tt>b48c6b92</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/26">#326</a> from stealthmodesoft/version</summary>
 
 Add version const
 
@@ -5865,7 +5865,7 @@ This mitigates the risk of CSRF attacks.
 
 - <a href="https://github.com/stealthmodesoft/gqlgen/commit/8da5d61b045ee4ea230ecac6706c8857d8f9081d"><tt>8da5d61b</tt></a> Generate complexity for all fields. Fix bugs. Re-generate examples.
 
-<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/40943c6d92d2158db473aac699277dc6a95b95bb"><tt>40943c6d</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/22">#322</a> from 99designs/drop-old-flags</summary>
+<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/40943c6d92d2158db473aac699277dc6a95b95bb"><tt>40943c6d</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/22">#322</a> from stealthmodesoft/drop-old-flags</summary>
 
 Drop old cli flags
 
@@ -5877,7 +5877,7 @@ Description added to generated Model code
 
 </details></dd></dl>
 
-<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/988b367a542f44fac6e01148503b2e2e7e13fd5d"><tt>988b367a</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/16">#316</a> from 99designs/feat-concurrent-each-element</summary>
+<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/988b367a542f44fac6e01148503b2e2e7e13fd5d"><tt>988b367a</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/16">#316</a> from stealthmodesoft/feat-concurrent-each-element</summary>
 
 use goroutine about processing each array elements
 
@@ -5903,7 +5903,7 @@ Finds fields by configurable struct tag
 
 </details></dd></dl>
 
-<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/f7aeb88adbe30d19b2c37f8ed41e0322d27f5ef4"><tt>f7aeb88a</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/21">#321</a> from 99designs/remove-typemap</summary>
+<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/f7aeb88adbe30d19b2c37f8ed41e0322d27f5ef4"><tt>f7aeb88a</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/21">#321</a> from stealthmodesoft/remove-typemap</summary>
 
 Remove support for the old json typemap
 
@@ -5949,19 +5949,19 @@ Also ran `dep ensure` to add the new dependency to `Gopkg.lock`.
 
 - <a href="https://github.com/stealthmodesoft/gqlgen/commit/02873495e1f85ae83e38cf79e52a2122a845986f"><tt>02873495</tt></a> use goroutine about processing each array elements
 
-- <a href="https://github.com/stealthmodesoft/gqlgen/commit/40f904a6a3e07145532db7ef08b09d8ec221cbd9"><tt>40f904a6</tt></a> Merge branch 'master' of github.com:99designs/gqlgen into tags
+- <a href="https://github.com/stealthmodesoft/gqlgen/commit/40f904a6a3e07145532db7ef08b09d8ec221cbd9"><tt>40f904a6</tt></a> Merge branch 'master' of github.com:stealthmodesoft/gqlgen into tags
 
 - <a href="https://github.com/stealthmodesoft/gqlgen/commit/56768d6ba53088c47390944813b0c13cb97e4ae4"><tt>56768d6b</tt></a> adds tests for findField
 
 - <a href="https://github.com/stealthmodesoft/gqlgen/commit/556b93ac9f76f72cedb4be5189a1c014dea4da04"><tt>556b93ac</tt></a> Run go generate ./...
 
-<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/2dcb2dd8c3aea0d993b19c93660b4579e404c53f"><tt>2dcb2dd8</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/14">#314</a> from 99designs/directive-obj</summary>
+<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/2dcb2dd8c3aea0d993b19c93660b4579e404c53f"><tt>2dcb2dd8</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/14">#314</a> from stealthmodesoft/directive-obj</summary>
 
 Add obj to Directives
 
 </details></dd></dl>
 
-- <a href="https://github.com/stealthmodesoft/gqlgen/commit/0e2aaa9ec6e6be2cafe04b878f42444275056a41"><tt>0e2aaa9e</tt></a> Merge branch 'master' of github.com:99designs/gqlgen into tags
+- <a href="https://github.com/stealthmodesoft/gqlgen/commit/0e2aaa9ec6e6be2cafe04b878f42444275056a41"><tt>0e2aaa9e</tt></a> Merge branch 'master' of github.com:stealthmodesoft/gqlgen into tags
 
 - <a href="https://github.com/stealthmodesoft/gqlgen/commit/7cfd9772cb10bb4cb75cef188c0c4635aecb8663"><tt>7cfd9772</tt></a> fixes field selection priority
 
@@ -5971,7 +5971,7 @@ Add obj to Directives
 
 - <a href="https://github.com/stealthmodesoft/gqlgen/commit/1fda3edefc6e9a028903fafeca7f59bedb796e6f"><tt>1fda3ede</tt></a> Add obj to Directives
 
-<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/9b24710218507d6420c9710f92ab33d59594584e"><tt>9b247102</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/01">#301</a> from 99designs/feat-directive-parent</summary>
+<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/9b24710218507d6420c9710f92ab33d59594584e"><tt>9b247102</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/01">#301</a> from stealthmodesoft/feat-directive-parent</summary>
 
 add Result field to ResolverContext
 
@@ -5985,7 +5985,7 @@ add Result field to ResolverContext
 
 - <a href="https://github.com/stealthmodesoft/gqlgen/commit/568a72e9edde1d564f64e1e22267b76670d12853"><tt>568a72e9</tt></a> add some refactor
 
-<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/50588a8af8eedc8c85f388cf17a83ec5077bb39e"><tt>50588a8a</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/99">#299</a> from 99designs/test-init-on-windows</summary>
+<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/50588a8af8eedc8c85f388cf17a83ec5077bb39e"><tt>50588a8a</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/99">#299</a> from stealthmodesoft/test-init-on-windows</summary>
 
 Test gqlgen init on windows
 
@@ -5995,13 +5995,13 @@ Test gqlgen init on windows
 
 - <a href="https://github.com/stealthmodesoft/gqlgen/commit/c7fd841666d8fbd3496a7da63abb9c9ced3f1c61"><tt>c7fd8416</tt></a> Merge branch 'master' into feat-directive-parent
 
-<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/3f8a601b5b1d129bdccf79aa72787897701a0027"><tt>3f8a601b</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/12">#312</a> from 99designs/validate-gopath</summary>
+<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/3f8a601b5b1d129bdccf79aa72787897701a0027"><tt>3f8a601b</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/12">#312</a> from stealthmodesoft/validate-gopath</summary>
 
 Validate gopath when running gqlgen
 
 </details></dd></dl>
 
-<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/77e6955279ca8c844bd1bd5541f4fd7f793164cd"><tt>77e69552</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/10">#310</a> from 99designs/sitemap-404s</summary>
+<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/77e6955279ca8c844bd1bd5541f4fd7f793164cd"><tt>77e69552</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/10">#310</a> from stealthmodesoft/sitemap-404s</summary>
 
 Remove 404s from sitemap
 
@@ -6023,7 +6023,7 @@ fix unit test error "mapstructure: result must be a pointer". It appears instead
 
 - <a href="https://github.com/stealthmodesoft/gqlgen/commit/25b12cb600ae04866a089831c9fb4c01d2e53ab4"><tt>25b12cb6</tt></a> Remove 404s from sitemap
 
-<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/4a6f505d968843836998a154d06fe8f46e7b598c"><tt>4a6f505d</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/09">#309</a> from 99designs/pr-template</summary>
+<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/4a6f505d968843836998a154d06fe8f46e7b598c"><tt>4a6f505d</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/09">#309</a> from stealthmodesoft/pr-template</summary>
 
 Add a PR template
 
@@ -6045,7 +6045,7 @@ Add a PR template
 
 - <a href="https://github.com/stealthmodesoft/gqlgen/commit/09e4bf8c481a8fbdc2ed34bad80051ded1a2023e"><tt>09e4bf8c</tt></a> add Result field instead of ParentObject field
 
-<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/b8695fb5223ba49fce18aad984af831b710c8b60"><tt>b8695fb5</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/04">#304</a> from 99designs/newline-for-init-response</summary>
+<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/b8695fb5223ba49fce18aad984af831b710c8b60"><tt>b8695fb5</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/04">#304</a> from stealthmodesoft/newline-for-init-response</summary>
 
 Put newline at end of `gqlgen init` output
 
@@ -6055,7 +6055,7 @@ Put newline at end of `gqlgen init` output
 
 - <a href="https://github.com/stealthmodesoft/gqlgen/commit/e53d224e2ad3137cf93deb5baae638197a3e73f6"><tt>e53d224e</tt></a> Merge branch 'master' into feat-directive-parent
 
-<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/de750645ac12568d8909b52f539d625c6a4ee62c"><tt>de750645</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/98">#298</a> from 99designs/handle-response-nulls</summary>
+<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/de750645ac12568d8909b52f539d625c6a4ee62c"><tt>de750645</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/98">#298</a> from stealthmodesoft/handle-response-nulls</summary>
 
 Nulls in required fields should cause errors and bubble
 
@@ -6065,7 +6065,7 @@ Nulls in required fields should cause errors and bubble
 
 - <a href="https://github.com/stealthmodesoft/gqlgen/commit/072363c777fa35f726d5c6f0626720dab296bc3b"><tt>072363c7</tt></a> add ParentObject field to ResolverContext
 
-<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/e15d78906a5ab4d528c4ca4b13aaeae2dd944a14"><tt>e15d7890</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/00">#300</a> from 99designs/fix-starwars-connection-example</summary>
+<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/e15d78906a5ab4d528c4ca4b13aaeae2dd944a14"><tt>e15d7890</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/00">#300</a> from stealthmodesoft/fix-starwars-connection-example</summary>
 
 fix connection example
 
@@ -6075,7 +6075,7 @@ fix connection example
 
 - <a href="https://github.com/stealthmodesoft/gqlgen/commit/7d1cdacabfb6dcea8367468d97ec29be02164a2c"><tt>7d1cdaca</tt></a> Nulls in required fields should cause errors and bubble
 
-<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/2c4e6cbf05e6920d119790b6f9d6262b87a56e3b"><tt>2c4e6cbf</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/94">#294</a> from 99designs/simplfy-concurrent-resolvers</summary>
+<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/2c4e6cbf05e6920d119790b6f9d6262b87a56e3b"><tt>2c4e6cbf</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/94">#294</a> from stealthmodesoft/simplfy-concurrent-resolvers</summary>
 
 Simplfy concurrent resolver logic
 
@@ -6091,7 +6091,7 @@ Simplfy concurrent resolver logic
 ## [v0.4.4](https://github.com/stealthmodesoft/gqlgen/compare/0.4.3...v0.4.4) - 2018-08-21
 - <a href="https://github.com/stealthmodesoft/gqlgen/commit/6f6622c6b78098660f03d38fb8f0d459d428bdbe"><tt>6f6622c6</tt></a> Bump gqlparser to latest version
 
-<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/72659af418c34428b706f6dfc100a678540c8acd"><tt>72659af4</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/97">#297</a> from 99designs/fix-dep-pruning</summary>
+<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/72659af418c34428b706f6dfc100a678540c8acd"><tt>72659af4</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/97">#297</a> from stealthmodesoft/fix-dep-pruning</summary>
 
 Explicitly import ambient imports so dep doesn't prune them
 
@@ -6115,7 +6115,7 @@ Fix broken links in docs
 
 - <a href="https://github.com/stealthmodesoft/gqlgen/commit/05c73d9f5eac7c84319e894febf9b74b8ae76336"><tt>05c73d9f</tt></a> Fix broken links in docs
 
-<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/5a0b56aa613bf7604688f2c5f8f10ec586aec835"><tt>5a0b56aa</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/85">#285</a> from 99designs/fix-force-type</summary>
+<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/5a0b56aa613bf7604688f2c5f8f10ec586aec835"><tt>5a0b56aa</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/85">#285</a> from stealthmodesoft/fix-force-type</summary>
 
 Stop force resolver from picking up types from matching fields
 
@@ -6123,7 +6123,7 @@ Stop force resolver from picking up types from matching fields
 
 - <a href="https://github.com/stealthmodesoft/gqlgen/commit/31478cf4f74564682f6b0160867661c25b0bbe78"><tt>31478cf4</tt></a> Stop force resolver from picking up types from matching fields
 
-<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/ebdcf7401de7853e33940a3be357cd7b19b543be"><tt>ebdcf740</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/83">#283</a> from 99designs/speed-up-tests</summary>
+<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/ebdcf7401de7853e33940a3be357cd7b19b543be"><tt>ebdcf740</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/83">#283</a> from stealthmodesoft/speed-up-tests</summary>
 
 Speed up tests
 
@@ -6137,7 +6137,7 @@ Speed up tests
 <!-- end of If NoteGroups -->
 <a name="0.4.3"></a>
 ## [0.4.3](https://github.com/stealthmodesoft/gqlgen/compare/0.4.2...0.4.3) - 2018-08-10
-<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/3575c289486fce174c941b63749b9bbb88c3ca90"><tt>3575c289</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/81">#281</a> from 99designs/introspection-default-args</summary>
+<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/3575c289486fce174c941b63749b9bbb88c3ca90"><tt>3575c289</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/81">#281</a> from stealthmodesoft/introspection-default-args</summary>
 
 Fix missing default args on types
 
@@ -6145,7 +6145,7 @@ Fix missing default args on types
 
 - <a href="https://github.com/stealthmodesoft/gqlgen/commit/b808253f02667601d6162acc2a941a504d5a95c2"><tt>b808253f</tt></a> Fix missing default args on types
 
-<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/bf235296103837d477e5d05b062c20f399a51553"><tt>bf235296</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/82">#282</a> from 99designs/flakey-tests</summary>
+<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/bf235296103837d477e5d05b062c20f399a51553"><tt>bf235296</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/82">#282</a> from stealthmodesoft/flakey-tests</summary>
 
 Remove sleeps in tests
 
@@ -6161,7 +6161,7 @@ Remove sleeps in tests
 ## [0.4.2](https://github.com/stealthmodesoft/gqlgen/compare/0.4.1...0.4.2) - 2018-08-10
 - <a href="https://github.com/stealthmodesoft/gqlgen/commit/06b00d459e44d7a7e29094992d56697fcf8b0f2b"><tt>06b00d45</tt></a> Update README.md
 
-<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/5c379a338ee2a7d46da0f0cbab6427d00aa93fc3"><tt>5c379a33</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/79">#279</a> from 99designs/integration-tests</summary>
+<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/5c379a338ee2a7d46da0f0cbab6427d00aa93fc3"><tt>5c379a33</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/79">#279</a> from stealthmodesoft/integration-tests</summary>
 
 Integration tests
 
@@ -6175,7 +6175,7 @@ Integration tests
 
 - <a href="https://github.com/stealthmodesoft/gqlgen/commit/45e22cb1f117b1b277c23e2483cb12f041528e91"><tt>45e22cb1</tt></a> Add introspection schema check
 
-<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/53109cd081a7e3f6a0304a0f205eac7fa9cd6b03"><tt>53109cd0</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/70">#270</a> from 99designs/feat-handlers</summary>
+<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/53109cd081a7e3f6a0304a0f205eac7fa9cd6b03"><tt>53109cd0</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/70">#270</a> from stealthmodesoft/feat-handlers</summary>
 
 stop pickup "github.com/vektah/gqlgen/handler" from GOPATH
 
@@ -6189,7 +6189,7 @@ stop pickup "github.com/vektah/gqlgen/handler" from GOPATH
 
 - <a href="https://github.com/stealthmodesoft/gqlgen/commit/f372b1c920835b873005e33e77e79733267ec93f"><tt>f372b1c9</tt></a> Use docker in docker for the existing testsuite
 
-<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/0eb08ab9545252332e683fbd912c39dbd9dbc821"><tt>0eb08ab9</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/74">#274</a> from 99designs/fix-variable-validation-data</summary>
+<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/0eb08ab9545252332e683fbd912c39dbd9dbc821"><tt>0eb08ab9</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/74">#274</a> from stealthmodesoft/fix-variable-validation-data</summary>
 
 Prevent executing queries on variable validation failures
 
@@ -6201,7 +6201,7 @@ Prevent executing queries on variable validation failures
 
 - <a href="https://github.com/stealthmodesoft/gqlgen/commit/e6005f6b9205ea489b453614858488d46eb48672"><tt>e6005f6b</tt></a> fix mobile nav
 
-<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/5cdbc9751f61597d92519e4b406674b6a53f6650"><tt>5cdbc975</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/67">#267</a> from 99designs/authentication-docs</summary>
+<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/5cdbc9751f61597d92519e4b406674b6a53f6650"><tt>5cdbc975</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/67">#267</a> from stealthmodesoft/authentication-docs</summary>
 
 Authentication docs
 
@@ -6215,13 +6215,13 @@ Authentication docs
 
 - <a href="https://github.com/stealthmodesoft/gqlgen/commit/8db3c143559c65ff3317e17b3b6307afa90c02cb"><tt>8db3c143</tt></a> Add structure to menu
 
-<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/c57619e0879f25bc749940b8dba3e75910b4e5eb"><tt>c57619e0</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/60">#260</a> from 99designs/init-improvements</summary>
+<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/c57619e0879f25bc749940b8dba3e75910b4e5eb"><tt>c57619e0</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/60">#260</a> from stealthmodesoft/init-improvements</summary>
 
 Init Config Improvement
 
 </details></dd></dl>
 
-<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/336b62ec685d04a065c2163cd728877165b3e2ea"><tt>336b62ec</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/66">#266</a> from 99designs/lint-friendly-decollision</summary>
+<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/336b62ec685d04a065c2163cd728877165b3e2ea"><tt>336b62ec</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/66">#266</a> from stealthmodesoft/lint-friendly-decollision</summary>
 
 Make keyword decollision more lint friendly
 
@@ -6229,7 +6229,7 @@ Make keyword decollision more lint friendly
 
 - <a href="https://github.com/stealthmodesoft/gqlgen/commit/2acbc245889a300d00c4943983afc9963b3db912"><tt>2acbc245</tt></a> Make keyword decollision more lint friendly
 
-<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/f12f08a78c27a8d1736cfe19cec983db0c91cdd1"><tt>f12f08a7</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/64">#264</a> from 99designs/docs</summary>
+<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/f12f08a78c27a8d1736cfe19cec983db0c91cdd1"><tt>f12f08a7</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/64">#264</a> from stealthmodesoft/docs</summary>
 
 CORS docs
 
@@ -6241,7 +6241,7 @@ CORS docs
 
 - <a href="https://github.com/stealthmodesoft/gqlgen/commit/96e6aab249b4caf1248cd290fa214474caf3d406"><tt>96e6aab2</tt></a> Add CORS docs
 
-<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/0ab1c685eb45f580dc52bfe143f8185f3dc363ef"><tt>0ab1c685</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/63">#263</a> from 99designs/add-logo</summary>
+<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/0ab1c685eb45f580dc52bfe143f8185f3dc363ef"><tt>0ab1c685</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/63">#263</a> from stealthmodesoft/add-logo</summary>
 
 Add logo to doc site
 
@@ -6261,7 +6261,7 @@ Add logo to doc site
 <!-- end of If NoteGroups -->
 <a name="0.4.1"></a>
 ## [0.4.1](https://github.com/stealthmodesoft/gqlgen/compare/0.4.0...0.4.1) - 2018-08-04
-<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/42f10ec9122abaac7b9cf03444f35b6c5cb5f53d"><tt>42f10ec9</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/55">#255</a> from 99designs/introspection-fixes</summary>
+<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/42f10ec9122abaac7b9cf03444f35b6c5cb5f53d"><tt>42f10ec9</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/55">#255</a> from stealthmodesoft/introspection-fixes</summary>
 
 Fix introspection api
 
@@ -6287,13 +6287,13 @@ Fix typo in introduction docs
 <!-- end of If NoteGroups -->
 <a name="0.4.0"></a>
 ## [0.4.0](https://github.com/stealthmodesoft/gqlgen/compare/0.3.0...0.4.0) - 2018-08-03
-<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/7b5a3d7473f375bb81bd8efe1a08e69a932e6706"><tt>7b5a3d74</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/47">#247</a> from 99designs/next</summary>
+<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/7b5a3d7473f375bb81bd8efe1a08e69a932e6706"><tt>7b5a3d74</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/47">#247</a> from stealthmodesoft/next</summary>
 
 0.4.0 Release
 
 </details></dd></dl>
 
-<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/c0be9c9943982ce21a0ff47655c9f4f99034d489"><tt>c0be9c99</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/51">#251</a> from 99designs/rewrite-imports</summary>
+<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/c0be9c9943982ce21a0ff47655c9f4f99034d489"><tt>c0be9c99</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/51">#251</a> from stealthmodesoft/rewrite-imports</summary>
 
 Rewrite import paths
 
@@ -6301,7 +6301,7 @@ Rewrite import paths
 
 - <a href="https://github.com/stealthmodesoft/gqlgen/commit/4361401a903bda5d84220b8cb41d8cef3c11f720"><tt>4361401a</tt></a> Rewrite import paths
 
-<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/f042328a2c75ea771472390e9f1bc33d7cad75f0"><tt>f042328a</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/52">#252</a> from 99designs/move-doc-site</summary>
+<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/f042328a2c75ea771472390e9f1bc33d7cad75f0"><tt>f042328a</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/52">#252</a> from stealthmodesoft/move-doc-site</summary>
 
 Move doc site
 
@@ -6309,7 +6309,7 @@ Move doc site
 
 - <a href="https://github.com/stealthmodesoft/gqlgen/commit/658a24d9dcda158b451f5f21535ce2363eb188f8"><tt>658a24d9</tt></a> Move doc site
 
-<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/07b7e6ca88acceb1882789fa180109d2a54331dd"><tt>07b7e6ca</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/48">#248</a> from 99designs/json-usenumber</summary>
+<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/07b7e6ca88acceb1882789fa180109d2a54331dd"><tt>07b7e6ca</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/48">#248</a> from stealthmodesoft/json-usenumber</summary>
 
 use json.Decoder.UseNumber() when unmarshalling vars
 
@@ -6639,9 +6639,9 @@ Update gqlparser for validation locations
 
 - <a href="https://github.com/stealthmodesoft/gqlgen/commit/f4d31aa429fe5e5ea20e5e88e114c2d29a551a71"><tt>f4d31aa4</tt></a> Update gqlparser for validation locations
 
-<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/9d473f8b6585a1919cca3b7224ef0cca9767dae9"><tt>9d473f8b</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/03">#203</a> from vektah/99designs-announcement</summary>
+<dl><dd><details><summary><a href="https://github.com/stealthmodesoft/gqlgen/commit/9d473f8b6585a1919cca3b7224ef0cca9767dae9"><tt>9d473f8b</tt></a> Merge pull request <a href="https://github.com/stealthmodesoft/gqlgen/pull/03">#203</a> from vektah/stealthmodesoft-announcement</summary>
 
-Announcement: 99designs is now sponsoring gqlgen
+Announcement: stealthmodesoft is now sponsoring gqlgen
 
 </details></dd></dl>
 
@@ -6651,7 +6651,7 @@ Use shared prelude
 
 </details></dd></dl>
 
-- <a href="https://github.com/stealthmodesoft/gqlgen/commit/004ec6a96a06b8a08815311c8e8170661c91a836"><tt>004ec6a9</tt></a> Add 99designs sponsorship news
+- <a href="https://github.com/stealthmodesoft/gqlgen/commit/004ec6a96a06b8a08815311c8e8170661c91a836"><tt>004ec6a9</tt></a> Add stealthmodesoft sponsorship news
 
 - <a href="https://github.com/stealthmodesoft/gqlgen/commit/548aed142366e4fc6e37527db629d08e7f2903c2"><tt>548aed14</tt></a> Use shared prelude
 

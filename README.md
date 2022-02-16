@@ -1,7 +1,7 @@
 ![gqlgen](https://user-images.githubusercontent.com/980499/133180111-d064b38c-6eb9-444b-a60f-7005a6e68222.png)
 
 
-# gqlgen [![Integration](https://github.com/stealthmodesoft/gqlgen/actions/workflows/integration.yml/badge.svg)](https://github.com/stealthmodesoft/gqlgen/actions) [![Coverage Status](https://coveralls.io/repos/github/99designs/gqlgen/badge.svg?branch=master)](https://coveralls.io/github/99designs/gqlgen?branch=master) [![Go Report Card](https://goreportcard.com/badge/github.com/stealthmodesoft/gqlgen)](https://goreportcard.com/report/github.com/stealthmodesoft/gqlgen) [![Go Reference](https://pkg.go.dev/badge/github.com/stealthmodesoft/gqlgen.svg)](https://pkg.go.dev/github.com/stealthmodesoft/gqlgen) [![Read the Docs](https://badgen.net/badge/docs/available/green)](http://gqlgen.com/)
+# gqlgen [![Integration](https://github.com/stealthmodesoft/gqlgen/actions/workflows/integration.yml/badge.svg)](https://github.com/stealthmodesoft/gqlgen/actions) [![Coverage Status](https://coveralls.io/repos/github/stealthmodesoft/gqlgen/badge.svg?branch=master)](https://coveralls.io/github/stealthmodesoft/gqlgen?branch=master) [![Go Report Card](https://goreportcard.com/badge/github.com/stealthmodesoft/gqlgen)](https://goreportcard.com/report/github.com/stealthmodesoft/gqlgen) [![Go Reference](https://pkg.go.dev/badge/github.com/stealthmodesoft/gqlgen.svg)](https://pkg.go.dev/github.com/stealthmodesoft/gqlgen) [![Read the Docs](https://badgen.net/badge/docs/available/green)](http://gqlgen.com/)
 
 ## What is gqlgen?
 
@@ -146,6 +146,6 @@ There isn't any way around this, gqlgen has no way to know what you want in a gi
 ## Other Resources
 
 - [Christopher Biscardi @ Gophercon UK 2018](https://youtu.be/FdURVezcdcw)
-- [Introducing gqlgen: a GraphQL Server Generator for Go](https://99designs.com.au/blog/engineering/gqlgen-a-graphql-server-generator-for-go/)
+- [Introducing gqlgen: a GraphQL Server Generator for Go](https://stealthmodesoft.com.au/blog/engineering/gqlgen-a-graphql-server-generator-for-go/)
 - [Dive into GraphQL by Iván Corrales Solera](https://medium.com/@ivan.corrales.solera/dive-into-graphql-9bfedf22e1a)
 - [Sample Project built on gqlgen with Postgres by Oleg Shalygin](https://github.com/oshalygin/gqlgen-pg-todo-example)

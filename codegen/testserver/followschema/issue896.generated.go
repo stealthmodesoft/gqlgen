@@ -98,7 +98,7 @@ func (ec *executionContext) _CheckIssue896(ctx context.Context, sel ast.Selectio
 
 // region    ***************************** type.gotpl *****************************
 
-func (ec *executionContext) marshalNCheckIssue8962ᚖgithubᚗcomᚋ99designsᚋgqlgenᚋcodegenᚋtestserverᚋfollowschemaᚐCheckIssue896(ctx context.Context, sel ast.SelectionSet, v *CheckIssue896) graphql.Marshaler {
+func (ec *executionContext) marshalNCheckIssue8962ᚖgithubᚗcomᚋstealthmodesoftᚋgqlgenᚋcodegenᚋtestserverᚋfollowschemaᚐCheckIssue896(ctx context.Context, sel ast.SelectionSet, v *CheckIssue896) graphql.Marshaler {
 	if v == nil {
 		if !graphql.HasFieldError(ctx, graphql.GetFieldContext(ctx)) {
 			ec.Errorf(ctx, "must not be null")
@@ -108,7 +108,7 @@ func (ec *executionContext) marshalNCheckIssue8962ᚖgithubᚗcomᚋ99designsᚋ
 	return ec._CheckIssue896(ctx, sel, v)
 }
 
-func (ec *executionContext) marshalOCheckIssue8962ᚕᚖgithubᚗcomᚋ99designsᚋgqlgenᚋcodegenᚋtestserverᚋfollowschemaᚐCheckIssue896(ctx context.Context, sel ast.SelectionSet, v []*CheckIssue896) graphql.Marshaler {
+func (ec *executionContext) marshalOCheckIssue8962ᚕᚖgithubᚗcomᚋstealthmodesoftᚋgqlgenᚋcodegenᚋtestserverᚋfollowschemaᚐCheckIssue896(ctx context.Context, sel ast.SelectionSet, v []*CheckIssue896) graphql.Marshaler {
 	if v == nil {
 		return graphql.Null
 	}
@@ -135,7 +135,7 @@ func (ec *executionContext) marshalOCheckIssue8962ᚕᚖgithubᚗcomᚋ99designs
 			if !isLen1 {
 				defer wg.Done()
 			}
-			ret[i] = ec.marshalOCheckIssue8962ᚖgithubᚗcomᚋ99designsᚋgqlgenᚋcodegenᚋtestserverᚋfollowschemaᚐCheckIssue896(ctx, sel, v[i])
+			ret[i] = ec.marshalOCheckIssue8962ᚖgithubᚗcomᚋstealthmodesoftᚋgqlgenᚋcodegenᚋtestserverᚋfollowschemaᚐCheckIssue896(ctx, sel, v[i])
 		}
 		if isLen1 {
 			f(i)
@@ -149,7 +149,7 @@ func (ec *executionContext) marshalOCheckIssue8962ᚕᚖgithubᚗcomᚋ99designs
 	return ret
 }
 
-func (ec *executionContext) marshalOCheckIssue8962ᚕᚖgithubᚗcomᚋ99designsᚋgqlgenᚋcodegenᚋtestserverᚋfollowschemaᚐCheckIssue896ᚄ(ctx context.Context, sel ast.SelectionSet, v []*CheckIssue896) graphql.Marshaler {
+func (ec *executionContext) marshalOCheckIssue8962ᚕᚖgithubᚗcomᚋstealthmodesoftᚋgqlgenᚋcodegenᚋtestserverᚋfollowschemaᚐCheckIssue896ᚄ(ctx context.Context, sel ast.SelectionSet, v []*CheckIssue896) graphql.Marshaler {
 	if v == nil {
 		return graphql.Null
 	}
@@ -176,7 +176,7 @@ func (ec *executionContext) marshalOCheckIssue8962ᚕᚖgithubᚗcomᚋ99designs
 			if !isLen1 {
 				defer wg.Done()
 			}
-			ret[i] = ec.marshalNCheckIssue8962ᚖgithubᚗcomᚋ99designsᚋgqlgenᚋcodegenᚋtestserverᚋfollowschemaᚐCheckIssue896(ctx, sel, v[i])
+			ret[i] = ec.marshalNCheckIssue8962ᚖgithubᚗcomᚋstealthmodesoftᚋgqlgenᚋcodegenᚋtestserverᚋfollowschemaᚐCheckIssue896(ctx, sel, v[i])
 		}
 		if isLen1 {
 			f(i)
@@ -196,7 +196,7 @@ func (ec *executionContext) marshalOCheckIssue8962ᚕᚖgithubᚗcomᚋ99designs
 	return ret
 }
 
-func (ec *executionContext) marshalOCheckIssue8962ᚖgithubᚗcomᚋ99designsᚋgqlgenᚋcodegenᚋtestserverᚋfollowschemaᚐCheckIssue896(ctx context.Context, sel ast.SelectionSet, v *CheckIssue896) graphql.Marshaler {
+func (ec *executionContext) marshalOCheckIssue8962ᚖgithubᚗcomᚋstealthmodesoftᚋgqlgenᚋcodegenᚋtestserverᚋfollowschemaᚐCheckIssue896(ctx context.Context, sel ast.SelectionSet, v *CheckIssue896) graphql.Marshaler {
 	if v == nil {
 		return graphql.Null
 	}
