@@ -8,11 +8,11 @@ import (
 	"testing"
 	"time"
 
-	"github.com/99designs/gqlgen/graphql/handler/transport"
+	"github.com/stealthmodesoft/gqlgen/graphql/handler/transport"
 
-	"github.com/99designs/gqlgen/client"
-	"github.com/99designs/gqlgen/graphql"
-	"github.com/99designs/gqlgen/graphql/handler"
+	"github.com/stealthmodesoft/gqlgen/client"
+	"github.com/stealthmodesoft/gqlgen/graphql"
+	"github.com/stealthmodesoft/gqlgen/graphql/handler"
 	"github.com/stretchr/testify/require"
 )
 

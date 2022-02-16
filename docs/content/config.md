@@ -63,15 +63,15 @@ resolver:
 models:
   ID:
     model:
-      - github.com/99designs/gqlgen/graphql.ID
-      - github.com/99designs/gqlgen/graphql.Int
-      - github.com/99designs/gqlgen/graphql.Int64
-      - github.com/99designs/gqlgen/graphql.Int32
+      - github.com/stealthmodesoft/gqlgen/graphql.ID
+      - github.com/stealthmodesoft/gqlgen/graphql.Int
+      - github.com/stealthmodesoft/gqlgen/graphql.Int64
+      - github.com/stealthmodesoft/gqlgen/graphql.Int32
   Int:
     model:
-      - github.com/99designs/gqlgen/graphql.Int
-      - github.com/99designs/gqlgen/graphql.Int64
-      - github.com/99designs/gqlgen/graphql.Int32
+      - github.com/stealthmodesoft/gqlgen/graphql.Int
+      - github.com/stealthmodesoft/gqlgen/graphql.Int64
+      - github.com/stealthmodesoft/gqlgen/graphql.Int32
 ```
 
 Everything has defaults, so add things as you need.
@@ -102,7 +102,7 @@ directive @goTag(
 > Here be dragons
 >
 > gqlgen doesnt currently support user-configurable directives for SCALAR, ENUM, INTERFACE or UNION. This only works
-> for internal directives. You can track the progress [here](https://github.com/99designs/gqlgen/issues/760)
+> for internal directives. You can track the progress [here](https://github.com/stealthmodesoft/gqlgen/issues/760)
 
 Now you can use these directives when defining types in your schema:
 
@@ -116,7 +116,7 @@ type User @goModel(model: "github.com/my/app/models.User") {
 }
 ```
 
-The builtin directives `goField`, `goModel` and `goTag` are automatically registered to `skip_runtime`. Any directives registered as `skip_runtime` will not exposed during introspection and are used during code generation only. 
+The builtin directives `goField`, `goModel` and `goTag` are automatically registered to `skip_runtime`. Any directives registered as `skip_runtime` will not exposed during introspection and are used during code generation only.
 
 If you have created a new code generation plugin using a directive which does not require runtime execution, the directive will need to be set to `skip_runtime`.
 

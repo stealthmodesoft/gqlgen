@@ -5,7 +5,7 @@ import (
 	jsoniter "github.com/json-iterator/go"
 	"net/http"
 
-	"github.com/99designs/gqlgen/graphql"
+	"github.com/stealthmodesoft/gqlgen/graphql"
 	"github.com/vektah/gqlparser/v2/gqlerror"
 )
 

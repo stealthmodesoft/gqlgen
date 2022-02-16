@@ -6,9 +6,9 @@ import (
 	"log"
 	"os"
 
-	"github.com/99designs/gqlgen/codegen"
-	"github.com/99designs/gqlgen/codegen/templates"
-	"github.com/99designs/gqlgen/plugin"
+	"github.com/stealthmodesoft/gqlgen/codegen"
+	"github.com/stealthmodesoft/gqlgen/codegen/templates"
+	"github.com/stealthmodesoft/gqlgen/plugin"
 )
 
 func New(filename string) plugin.Plugin {
